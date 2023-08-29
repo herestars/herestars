@@ -91,3 +91,11 @@ JavaScript               1 repo              █████░░░░░░�
 
  Last Updated on 29/08/2023 07:06:22 UTC
 <!--END_SECTION:waka-->
+
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="/metrics.plugin.steam.full.svg" alt="Steam">
+</picture>
+<picture>
+  <img src="/metrics.plugin.steam.full.svg" alt="Steam">
+</picture>
