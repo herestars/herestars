@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="60" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="510" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.steam .games{margin-left:28px}.steam .media{display:flex;margin-bottom:4px;width:450px}.steam .media img{margin:0 10px;border-radius:7px}.steam .media&gt;img{height:32px;width:32px}.steam .media .about{flex-grow:1}.steam .media .name{display:flex;align-items:center;justify-content:space-between;font-size:14px;line-height:14px;color:#58a6ff}.steam .media .infos{font-size:12px;color:#666;align-items:center}.steam .media .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.steam .media .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0}.steam .media .achievement img{height:22px;width:22px;margin-right:6px}.steam .media .achievement .name,.steam .media .infos{display:flex;justify-content:space-between}.steam .media .achievement .name&gt;div:first-child{max-width:280px}.steam .media .achievement .description{overflow:hidden;text-overflow:ellipsis;display:block;width:344px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.steam .media .achievement .unlocked{font-size:12px;color:#666;font-style:italic;flex-shrink:0}.steam .media .achievement .ellipsis{margin-left:18px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,13 +15,183 @@
                 </h2>
                 <div class="row">
                     <section>
-                        <div class="field error">
+                        <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
+                                <path d="M10.561 8.073a6.005 6.005 0 0 1 3.432 5.142.75.75 0 1 1-1.498.07 4.5 4.5 0 0 0-8.99 0 .75.75 0 0 1-1.498-.07 6.004 6.004 0 0 1 3.431-5.142 3.999 3.999 0 1 1 5.123 0ZM10.5 5a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"/>
                             </svg>
-                            API error: 400
+                            丿鑫丶尘
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path d="m10.41.24 4.711 2.774c.544.316.878.897.879 1.526v5.01a1.77 1.77 0 0 1-.88 1.53l-7.753 4.521-.002.001a1.769 1.769 0 0 1-1.774 0H5.59L.873 12.85A1.761 1.761 0 0 1 0 11.327V6.292c0-.304.078-.598.22-.855l.004-.005.01-.019c.15-.262.369-.486.64-.643L8.641.239a1.752 1.752 0 0 1 1.765 0l.002.001ZM9.397 1.534l-7.17 4.182 4.116 2.388a.27.27 0 0 0 .269 0l7.152-4.148-4.115-2.422a.252.252 0 0 0-.252 0Zm-7.768 10.02 4.1 2.393V9.474a1.807 1.807 0 0 1-.138-.072L1.5 7.029v4.298c0 .095.05.181.129.227Zm8.6.642 1.521-.887v-4.45l-1.521.882ZM7.365 9.402h.001c-.044.026-.09.049-.136.071v4.472l1.5-.875V8.61Zm5.885 1.032 1.115-.65h.002a.267.267 0 0 0 .133-.232V5.264l-1.25.725Z"/>
+                            </svg>
+                            23 games
                         </div>
                     </section>
+                    <section>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"/>
+                            </svg>
+                            Steam level 5
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
+                            </svg>
+                            758 hours played
+                        </div>
+                    </section>
+                </div>
+                <div class="games">
+                    <h2 class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"/>
+                        </svg>
+                        Most played
+                    </h2>
+                    <div class="medias largeable-flex-wrap">
+                        <div class="media largeable-width-half">
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAABwEEBQYIAgAD/8QAKxAAAQMDAwMDBAMBAAAAAAAAAQIDBAAFEQYHEiExQRMiMggUUWEVFiNx/8QAGgEAAgMBAQAAAAAAAAAAAAAAAAMBAgQFBv/EACARAAICAgMBAAMAAAAAAAAAAAECAAMREgQhMRMyQWH/2gAMAwEAAhEDEQA/AMzXi5vXKV6j2BgeBTDkT5Fec+VJ+PxRCP7W2w+/6cp0NN+CaKW0+irXfbRNmzFLW4yVDihWMgHoaEsVpx6Q02wnk6o4SO+a0zoDREnSDCHH3D6VwaTyBPTJGcU/jgM4BmflbGohDhoHdytNxLMhl6EhxPqLIIUc4FUMqJPXxWrJ+hP5Vuc5KbU/xQVNJFZcurSmbnJaUgo4OKRxP6NTyawj9Q4zEoAx7jXkR2Ip1bprsGWh9rHIHyKaeeleT8hWeaIqx7vbSfnNdOfIkdqVlBcdQhsZUo4ohCZsnpVy4agauUtspjRiFp5Doo0Vd79RPWbTTAZf4yXFlLY/FPNrrbItlgjMS0JC1Dn0GOhFBjfS/m8asWw0vlHjgBIHhXY0LZg9RRXLZM0bsPqD+w6IEp3/AEms5SpHlWOlAv6itJGzajF2jNBEOZ04AfFXc0++nq/O6cu8VuSs/wAddl/bg56II6k0b95dNzbvphqHaIwluIUp0qI5YSe1X339iivzt2HhmIOg79qVPfr38CpHULbzF1cakRzHdb9hQR5FRye/7qnk1RScKNX/AGn0w5cNRtSZrKkxmMOe7sqqGEKdcCUJJWo4CRWkNu2kx7HHS6UiQoAEAYIFJvs0WXRC0IDLaBx4q4pxxSPwKpD2zNhn3NT7y5Ci8sqUQ4e5r46518zpJ1hgsqfeWfeEn4ioOJv4lnINscIHx6ikVmwjIgy4PUtG7G3dt0htxDk6eLvqQHlSOalcjk0QtsdWjUmi401Kz9wGw04M98CgjqXfhF+ssm2SbYv0HkccZHSu/pt1S3Gfn2h04SvK2AfBJrRkgZ/cQUJXDSC+omwuwNSpnpSn7aQAMpHY+aEQ7jHatW7p2xnUFtfipPN7B9P9KrLc+G9BmrjyUFDiDggiprsDiSrD8c9iWbbq3CXezKdALUUBfUdD+qLkOSI94D61BDATkDxVB0s3HtMMxZ8hEd1w+7PgVZ75qHTsC3NMRZqJTrXvyk/InxXOvSx7SwHXk9DT8U4ehI2PcG2rLg5qC+zZjhyAS2kf8NVmKkGSlKkk5OKezJra5a1sNqSgrKiM/mmSF+nIDnEgZzXUUYUCcJj3PrcW223vZU3p65osNzgXBkEKQvKuveoOY6JDoIQUn911FeQEhEhBUgHNB/sgTVOnXxeb3b3m/c2sJWs+BkUPvqe00iFf495htBDEkBo8R0yB3qY223C0/b2DJnPoZc9MNJaUeox5pdwtVWjWFqlQ2JjTjpT/AIJ8pVXnw1yc4MAdfJlqDBskez//2Q==" alt="" />
+                            <div class="about">
+                                <div class="name">ARK: Survival Evolved</div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        </svg>
+                                        Action, Adventure, Indie, Massively Multiplayer, RPG
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
+                                        </svg>
+                                        274 hours played
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
+                                        </svg>
+                                        Last played on 9 Jan 2022
+                                    </div>
+                                </div>
+                                <div class="achievements">
+                                    <div class="infos">
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
+                                            </svg>
+                                            14 / 32 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBQgE/8QAKRAAAgEEAgICAgAHAAAAAAAAAQIDBAUGERIhADETQSJRBxQVMlJhkf/EABcBAAMBAAAAAAAAAAAAAAAAAAACBQP/xAAnEQABAgUDAwUBAAAAAAAAAAABAgMABBEhMUFRYROhwSJxgbHR4f/aAAwDAQACEQMRAD8AQWD4mb689VcJWpLPTsqTVAA5Fj3wjB0C3EEnZAUDZPrejrDhOOWfGYbpTW+0rA7pGmo0r5n2ey8sm19Ak8FUADfY8VVvudrx5rDasiSc2JYVqK0LFzFTIVR/iAGvx5cWbZ2eCg9eFVRUWC8YLfrPjd2pZauGkkkipIEkXlGACOK8fybj+PWz2QfvyfMzS2zQJN7YxzFGWl2lAqWoWoQN9af37g7uWD4nkOJNcqq3Wpl+RogViSjm3y0OMsehsggjkrDRBOh5mn+IWFNjhpq23TGtsdWzLT1PRcN7CSBdgMV0wIJDDsH3psWO4YqMBtVJeLrHEWgiD0k8T9hU07ldeiNgN96UD9eVN2vNjyOXI7TjcbrYZUElCvxGNaaQo7CLR30JAWXWtfI4HXhLzS3CQUm1sZ5gmZdlNFNqHqvTbWnO1YkxGuprraxHXCKWmrYIiYpkDxs6qEZSD9hoz+iOQI8HM7xKotsjw0UIpmpIXraKeJwvy0jMC6k++UbuQN9lW19DwOwvKDY5Wgqo2nt0rBnjHtG6/Jf+DY63odggHxnZJVUGcYpSw2y4UP8AVaKR1gMs/wARankUh0beuw3EjfX93jvtLDocRjXwfB49ozQ+hTPSWLg1B42r3EUWH4zW3GohttxcSC4hK66VTyc/5eiiJKqW+i5APvegn+/DTJ0teP41K9BGlNDTxvOIVXiA5VkRdHZ3ydeySx0SegAOOzV9swrCpbfWXWlNyqphPVyo4fmFRQiKB2eP5D0dk7+wfFZnOXPkEq09MrxW6NuSqx/KRv8AJv1rZ0PrZ9kk+DDbhcLi8aDzTsOBzCrcQlrpoFzn8r3PxH//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Maximum Survivor</div>
+                                                <div class="unlocked">7 Mar 2020</div>
+                                            </div>
+                                            <div class="description">You reached the Maximum Survivor Level!</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAQj/xAAtEAACAQMCBQMEAQUAAAAAAAABAgMEBRESIQAGBxNRIjFhFCNBgSQycsHR8P/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAD/xAAjEQACAgECBgMAAAAAAAAAAAABAgADIRFhEhMiMkGBQsHh/9oADAMBAAIRAxEAPwDnnkrlaXmKs+40kNCjhHkRNTux3CINgWIBO5AAGSfNZuFtsvKtPHQ26w0NTdphoihmh+rdidsySsQFxufQo32B98b07SC02QM+texSahpAJMrqGJ3IGMsoJJ9kHBXpndbcnWWorLirzpFO30zgDAVlCRygH3GSuPGseDxOrM7FyekY97yiuoMwTyc/eg3g7lSxWPmpaix3uzUMF5iYhe2hppD/AGSqSDtuNasM5HjiWdROSp+UrjhJHqLfI5WOV00ujDcxyKCQrgEHYkMNwSPa5daJLTF1BsklrP01c7vPVOhx2odyrNg/j1H9H44E9Rq6DmnlSKqZzNJPAaeSQx9vXLGhdXA3xhgy+5HrYA44DO6sr69Jx72mtrCuUHjP4YG6b19FWxwR3AhoKiFYiCcANo7Z/YK+3yDwLvV6a33n+RS0xrtXbklqA2NIDBycAkBx/UNxqYnifcr397NOVkQy0chBeP58j/v8cO9zvdtudFOyVQc1MYi7aj1odQJJHjSMZ4eusq7D4tE5hHC69yzRzJWXfmKoaBYKq7VH2VqoAxBLYwcsMnQAAo2GRqwTvw3dRXoLLYxSUTAU9vp+yuDnuS4K5/bNn9HhFsVba7QzVk9UkMsSBUQDU5OSMj5xp3xwr828yS3yZURWio4zlIydyfJ/1+MnyeBbWXdVHasIsJ4nbLGf/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Alpha Ascension</div>
+                                                <div class="unlocked">10 Dec 2019</div>
+                                            </div>
+                                            <div class="description">You Ascended off the ARK, at Alpha level!</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+12 others...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="games">
+                    <h2 class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"/>
+                        </svg>
+                        Recently played
+                    </h2>
+                    <div class="medias largeable-flex-wrap">
+                        <div class="media largeable-width-half">
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABgcEBQABAwII/8QAKhAAAQMCBAUFAQEBAAAAAAAAAQACAwQRBQYSIQcTMUFRFCIzYXGxNIH/xAAZAQADAQEBAAAAAAAAAAAAAAACAwQFAAH/xAAgEQACAgICAwEBAAAAAAAAAAAAAQIDBBESMQUTIRRB/9oADAMBAAIRAxEAPwD5YbsTfqsa1xPtFyFjRqcGje/dF2VI6SmxKndVFgbe4e8Xaw+XDuFRRQ7tsXZYoAs2mmkHtjcfpZ6SftE5MHNMtLO+IxzwVFTqOt9M3Sws7ADyqOwt0uPAV8PHQkt7J3ktfwG/Szl1uU4laNNNb43WRKQBd17O8Ir4cQYHLiVYzMdZDSQcsFjpPK8n4+EFvbOjkyb1oVTmOabOBbfytdPs9kcZuioDjM0eHSxT0nRr2BBUrND3A9jsor8f1JPfxj67OfwynF5mfqu4mG1j0VLSC9TGPtEsMfRPw48ti73rRqOK3TZdhERupEca6mPZbVePtEbn9K98ZUWZl+u/6rSUBQZgl21aQUZbIDhbpt+Krq/nP4reTuqms+d34sfKWkV09mUf+mO3lFUGjax2HUlCtJcVMZHW6YOSsOixnMVDQSnTFO/S4p3j2kmBk9ojRFotpOy9Fws4XTezZwywnDsHmqKR0gfGOpdtddqvhfgzMv8Aqmc31XJa/Xr9tyPC2Y5SSI3ASEztrEgWUCd+5J77XT4y7wtwavwts1bzZKjURrY+zR/xVuUOGOE4nDVy1r3va2Z8bdLrWAKnuv5dDYx0I2RzbWJuD3CrKy/PN/GyYXFDLtPlnM0uH0p1QNja8HxdLyqJMp8dlkZL2iurs5sc5jw4dQizL2MTYdX01bh7g2opzrGrcXQj57r2yR0Z9rjbvZIou9TDsr5IbmM8TMwYzRmmnlgEb9naWWXSfilmOXCnUJmp+SGCPaPewSmbWzgWDgLfS162bqHAK39leuhH52NXCeKWYcLw8U1PPT8u5I1R3O6h4JxJx/Bue2nmpy2Rxk3Zfc9UtvVyl1za30tGpkNyXDfslyyoMJUsJs2ZirMw4m7EMVc108jQz2CwAH0hSR2p5/qx7ye537FeRa39UllnMdCPE//Z" alt="" />
+                            <div class="about">
+                                <div class="name">MyDockFinder</div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        </svg>
+                                        Utilities
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
+                                        </svg>
+                                        11 hours played
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
+                                        </svg>
+                                        Last played on 28 Aug 2023
+                                    </div>
+                                </div>
+                                <div class="achievements">
+                                    <div class="infos">
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
+                                            </svg>
+                                            3 / 12 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwcIBAH/xAArEAACAQMCBAQHAQAAAAAAAAABAgMABBEFBhIhYXEHMTJRExQVQWKBkaH/xAAZAQACAwEAAAAAAAAAAAAAAAABBAIDBgf/xAAnEQABAwMCBAcAAAAAAAAAAAABAgMRAAQFEiETFCJhMUFRcaHB8f/aAAwDAQACEQMRAD8AXVaI7G8kQPHaXLowyGWFiD2OKz1RHgBuG5+jW+m6pc/EhnlljsC7ZZTEqlou2GDDsw9q7FlL1dixxkJ1R5TH0fysnbMpeXoJip9htbicMYLeaUKcExxs2D1wKCRg4PI1QW69Nv8AY+vbovdGuZLXTdU0ue6iRDgR3SlM8I+xwWYdCfap+clnZmJLEkkk5JNHH3/PJLiR07Rvv3n2O1B9jgnSfGuUwmsNb0jw029rVtbzw/LanNdpNw+hWWMI5/ElSOv7pe0VrmdoRE08xiHLgMh4f5nFMXDKnSmCIBkyJkQRHzUG1hE1S+79Xsd6eCd9qyIOJbcylAecMycmH+kdQetTGfOiJPKkTRJLIsTepA5CnuPI0OlMXjRjkrbSqUkkjsPSrLm45ghRG4Ff/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>System functions</div>
+                                                <div class="unlocked">10 Mar 2023</div>
+                                            </div>
+                                            <div class="description">Right-click the MyFinder button to activate the system function</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwcIAP/EACYQAAEDAwMDBQEAAAAAAAAAAAECAwQABREGITESExQIMkFCkVH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwYH/8QAIBEAAQMEAwEBAAAAAAAAAAAAAQMEEQACEjEFIZHBQf/aAAwDAQACEQMRAD8AnVOzDlPIC2YshxB2CkNKUP0CgrRnpokPOaYujLjq1NMywG0KVkIBQCcD4yd67Fyr88e2LgW5RHUxv2sm1QC6mBMVnrwpXbU54sjtpzlXaVgY5ycUFWG6Xe+2CzaoduDjrtgukybb4kZfKFkrPdQTwjPUCPneo9VWbm5wLriBA1Bn4Oxo0FkwnABrq0Z6aI7zWmLo840tDT0sFtZGAsBABx/cHas50zUuSygIZkvtoH1Q4pI/AalyrA8g3LcXYzHcTrym1XCCmZE1W5Vgvd/g6qbuCXWtOW+XOuMZ5XuW6nrAbRn6ZBJ25zg71HRxT+XJ6CjyX+g5ynuqwc87ZoaqzbXt8hcQQdACPpkn9oLKBSCBX//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Tray icon</div>
+                                                <div class="unlocked">9 Mar 2023</div>
+                                            </div>
+                                            <div class="description">Click the button on the left side of the tray list to set a constant display icon</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+1 other...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </section>
         </div>
