@@ -23,4 +23,4 @@ jobs:
           base: ""
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
-          plugin_steam_user: "0"
+          plugin_steam_user: "76561198430777451"
