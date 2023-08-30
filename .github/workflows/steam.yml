@@ -12,10 +12,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: 个人信息
+        uses: lowlighter/metrics@latest
         with:
+          filename: metrics.classic.svg
           token: ${{ secrets.GH_TOKEN }}
-      - name: Profile and detailed game history
+          base: header, repositories
+          plugin_lines: yes
+      - name: Steam 游戏统计和最近游戏
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.steam.full.svg
@@ -24,3 +28,12 @@ jobs:
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
           plugin_steam_user: "76561198430777451"
+      - name: 亲朋好友🎈
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.people.followers.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_people: yes
+          plugin_people_types: followers, following
+          plugin_people_thanks: dianhsu
