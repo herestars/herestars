@@ -8,6 +8,30 @@
 -  📫 How to reach me herestars@qq.com
 </details>
 
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <picture>
+          <img src="/metrics.classic.svg" alt="Metrics">
+        </picture>
+      </td>
+      <td rowspan="2">
+        <picture>
+          <img src="/metrics.plugin.steam.full.svg" alt="Steam">
+        </picture>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>👇<em>If you want to appear here, please follow me </em>: )</p>
+        <picture>
+          <img src="/metrics.plugin.people.followers.svg" alt="Steam">
+        </picture>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="center">
   <a href="https://github.com/herestars" class="rich-diff-level-one">
@@ -92,9 +116,3 @@ JavaScript               1 repo              █████░░░░░░�
  Last Updated on 29/08/2023 18:36:56 UTC
 <!--END_SECTION:waka-->
 
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
-<picture>
-  <img src="/metrics.plugin.steam.full.svg" alt="Steam">
-</picture>
