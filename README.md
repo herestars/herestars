@@ -94,7 +94,6 @@ JavaScript               1 repo              █████░░░░░░�
 
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
-  <img src="/metrics.plugin.steam.full.svg" alt="Steam">
 </picture>
 <picture>
   <img src="/metrics.plugin.steam.full.svg" alt="Steam">
