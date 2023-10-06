@@ -193,7 +193,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 9.6 kB Used in GitHub's Storage 
+> 📦 9.7 kB Used in GitHub's Storage 
  > 
 > 🏆 44 Contributions in the Year 2023
  > 
@@ -209,18 +209,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 30 mins        ████████████░░░░░░░░░░░░░   49.75 % 
-Vue.js                   1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   34.67 % 
-TypeScript               27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-HTTP Request             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 1 hr 31 mins        █████████████░░░░░░░░░░░░   50.14 % 
-WebStorm                 1 hr 30 mins        ████████████░░░░░░░░░░░░░   49.86 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 2 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -236,6 +231,6 @@ JavaScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 05/10/2023 18:38:00 UTC
+ Last Updated on 06/10/2023 18:37:37 UTC
 <!--END_SECTION:waka-->
 
