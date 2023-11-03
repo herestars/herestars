@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            791 hours played
+                            795 hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        7 hours played
+                                        11 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 2 Nov 2023
+                                        Last played on 3 Nov 2023
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            16 / 35 achievements unlocked
+                                            18 / 35 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUHAv/EACkQAAIBAwMDBAEFAAAAAAAAAAECAwAEEQUSIQYHMRMiQVEUMmJxgZH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAwEC/8QAHhEAAgMAAQUAAAAAAAAAAAAAAAECAxEEEiExQfD/2gAMAwEAAhEDEQA/AMMxxtGabdpbOebrTS3tWjkljLyGJWPqABCCccfefND3x8YFM+yskkHczR2jJBdnQ4GeCpzQE7uPay2vWmsR3G1ZmuWZo8+5c4Ybhzjgj5NGGjBIbknFO+9kMcHczV1RdoIicj9xiUmhKkHOaA5IPp7+NpO3zzn+KXdp5nh6505o7aW5mAkMMMTBWkfYcAE8fdGdMs5LmRlQIXb2+8ZAp905OdN6r0m+ktwWtSsijP6mB8A/BIz/ALU5Tx4XhT1x3x6+ZP7xLnuRrID7zGY0Y55BEa+c0KZccY5rQteij1nVri8vtj3csjPI3gZJzj+vFC9Tt/xzJGqg5Y7GB5IB+qyu1T7HfI4sqEm3un//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQQGB//EACsQAAICAgEDAgYBBQAAAAAAAAECAwQFEQAGEiEiMRMUIzJBYVEHQnGB0f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwAXorp7D5vp+pDZw1LJWWh13Y/JCvdRtn7o30HP+/I1wbrzpDF9N42GzStZeO00ojkoZKgYWXYJ7lkHoYePx/PJ8J17NQx9bH5HDYfL0K47IltQalRf4WRfUPflfVfU+L6lwtXG4wZjHyNajb5S7f8AmKaelh3KzepT5H61vgYB2796GuVnEuKKXrLfDgkRjC4BYSODrsOvtP588cq4GtXDNeFgmBTHdjA+pUYn0ygf3x+3CcnkpL88pYokbsGZYlKJIwGviFd6BPAMLbPH8RWahEL1r4AjlgLRRzL3JZQnToGG+19ew9+D0a4kctKSCDoALvba8D/G/f8AXNFb7rh7I0MUUpExgQajEmtEhfwf+8C/EFM5klx9SeyscEbSJcA+vFXC+uHW/qeSFXZHkjfjleZ6Rw743Ivg7EnzeOLrMjTmZSyKzMhJjTR7UkIZe5SUYePBOfws0+KzcElZoRYO4ZEnGo2Vx2kMdjxo+4I1oHfjnSf6tS43G9PUh03lqVyd64oWzHOHkk2GJm0D5LFpFLaJAf8AfA//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Personal</div>
-                                                <div class="unlocked">2 Nov 2023</div>
+                                                <div>Thanks Station!</div>
+                                                <div class="unlocked">3 Nov 2023</div>
                                             </div>
-                                            <div class="description">Kill an enemy with a knife.</div>
+                                            <div class="description">As a Commander, kill an enemy using fire support.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwUGCAME/8QALhAAAQIFAgMFCQAAAAAAAAAAAQIDAAQFESEGEgcxURMUMkGhIiMkYXGBgpHB/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMF/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAAxEEEjFBISIj/9oADAMBAAIRAxEAPwANtgptgiJei0mcrM3LStOSh55e1sAezYnqfkLknpHOlNsLnR223YBgE4J8oZuE2nWJR5+uKR7x093YFvDbxKHoPsYiz++wRSU/I2txxjuCtXkpim1GZkJ1otTDDhQ4k9R/LZHUGPCtANjzteHLjdplExKS1XlGPikkMvEYuD4b+o/UCRAClAggjFjzEUDAnEgyEKG6Mk36QW2C4l8KcAuQRYY52jQ3DxAVoOiiTWlTZlQDnJWSd1/yvAjIDtkBSyN97AW6xNaa1JU9KrMvSBeVcuoy8ynekK6pyCkkWvYwel2YkNH66musK1fEVNeBUvomquTKgptpkqSVHmq42jPnutGZ5lRW8tZN1KO44tkxdNa6tq+plNS9QfbaYbVu7s0jajd1OSVH68oqU22WmygtjccpUDzEIC+czPLnbs6n/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYFBP/EACoQAAICAQQBAgQHAAAAAAAAAAECAwQFABESIQYTMQcUIlFBQmFxgaGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AAzbriN9U2C8Tu38dHfsWqONoSP6cc9+b0xK32Qdlv4Gs7HUPmrldJQUgeWNGPsSrvx3H96Xc1DNiLeRyOPhimvplI8PSjljEgpQjYLwU9cn770BrnvEchj8e2QhlqZHGq3F7VGX1VjO+2zjYFe+uxqYeMEhjuTp88bd8mcVdyFWOK9YvT4a6kaCNLcB35c0HRZD3voZv45a7yCFjIsbShievpR+IP8Amg46l1oZEDkmPkhYfjsp32H20x/DS5Z81z4yFqsBJja6rNMGO1mUEiJmX2DKvLvvQvXrtICSRy3AA2999JPh/mOQ8WxopYanUKzMZpHmjZnZyANjsw9gOtBufEeafwvOzXa0JZ8lXb5aYsdoJCw9YgH8xHHv9dEtu60kYVFKE8w49wQzcttWfm3m2T8ppw4/Kw0EMMolDRRMrKdiDsSx9wex+2oq3EYoyhQcz2rA+40H/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>First Blood</div>
-                                                <div class="unlocked">1 Nov 2023</div>
+                                                <div>There For You</div>
+                                                <div class="unlocked">3 Nov 2023</div>
                                             </div>
-                                            <div class="description">Get the first kill in a round.</div>
+                                            <div class="description">Call in fire support ten times as an Observer.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+14 others...</div>
+                                            <div class="description ellipsis">+16 others...</div>
                                         </div>
                                     </div>
                                 </div>
