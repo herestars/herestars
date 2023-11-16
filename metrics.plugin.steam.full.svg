@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            820 hours played
+                            823 hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        36 hours played
+                                        39 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 14 Nov 2023
+                                        Last played on 16 Nov 2023
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            21 / 35 achievements unlocked
+                                            23 / 35 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUHBgL/xAAsEAACAQMDAgQFBQAAAAAAAAABAgMEBREAEiExQQYTIlEHMmGBkSMzQqGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABwRAAICAwEBAAAAAAAAAAAAAAECABEDEiExgf/aAAwDAQACEQMRAD8AhmONozoiijMsixhgOpJPYDvrlsdsAaY0NE/lgKMM4DyMQdsSZwCxA4HOfxqHahya4k2PfBAayMxTGM4OQGBHRgeh0O0YJDck41VbnYZrh4YtditRoiKNmqq6rkdQquwwxZ/4Rr8o5yxU4BAzpFeJvCVrsVRarVE95ukwAkur5jjiIOf0V6kfU9f601NjsWVQp55MhRIss26T9pPU319h99V74R1dtq7Re7VWVVPS1tY6tum2jzEGMAbuCAQfT7H7iS24usbDZG+XGAwPJx9NPVWJvLEdFGSy5O7J59uuoIba6mqtj01JqPrtdKWkiW3V0YrGiqHnlWncRKJCzZwy7lIxt+Ud8dtYzxAtMbi8tvpTSUcoDRw+YZNnGCNx5POfzoqaRUlCGGFZAfUMNj/dC3ORzAImgjQ53KUJOe3fQoa/IO2MpV2fs//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwUGCAT/xAAxEAABAwMDAwEDDQAAAAAAAAABAgMEBQYRABIhByIxExRBURYkMkJSYWN0gZGh4fD/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAHREAAgICAwEAAAAAAAAAAAAAAAIBAxIhETFB8P/aAAwDAQACEQMRAD8APq18n6JUXKeu3nJm1hlfqrqDrZ3LaSsnAGPKv21a7Mtan3NadRq8G2IyEQVFCg9V5CS6QjeopwkjIGOD5zqn9TE7LvfGc/Noh5/LNaVOiDjybHuCNJW7tYhuPMshCPTAdbWQ4FDuKjtIIJGMYxoAM7psyox7tfgwKdIZp785UaHIfOGlDeUjLp4HII5Oo64LRkU8yXoqjMhxSW3JA7d6kkha0IPcWgoEBZGOPdnGtYuvFNiSYTYw7OnPwUAjI3PSVI/gFR/TQ/1xrlsOzJdLo81aXo2I77DEYkL2+G0O7tqW0kZUnacq5GT4U8+FLjvL6SIi2Sb86mVCCuZ7KwzToyy6MFe8xWwgBJ888n7gfiNOMC2G7csOpsQEpZS7AWp9htwlkPekQtaEn6IJGSPB84BzrNMyKxV6y3Vo9z02FILbCE7i+hxtSWko8oQcHKfcdKFDvWrR6c7TZ110OpxX2FMFcoPh5O4YyFhvJ8/WB0yTm6i3k5R6amnxJe2XEkyltFJ7g+txxIUT+G2pSs/acR8DoFXngckjVxvduNVr7q8iLLSqM/McWl4pITg8jGf61GJpjXsTxdAWsKOxaDjgf4ahrIXs3qoezSn/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Efficient</div>
-                                                <div class="unlocked">10 Nov 2023</div>
+                                                <div>Knock Knock</div>
+                                                <div class="unlocked">16 Nov 2023</div>
                                             </div>
-                                            <div class="description">Kill three or more enemies with a single grenade or explosive.</div>
+                                            <div class="description">Kill an enemy by bashing in a door.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcFAwT/xAAnEAACAQMEAgEEAwAAAAAAAAABAgMABBEFBhIhEzFBB1FhcRShwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCHRdOgHwQf7pjom0NU3LHcS6TDGwtiBLJLKsSAkEgZJ94BrEe3to08gVnX7qc032jLI2w9cuNN4JMbyGG8MqF8wlSU4gOuCHBJPv49UB3Vtu3m3bqGHU4o1mni80bRyLIjpnGVYdHvqikiBm5ez3Ve+oF7LFsLQYtQhiMyXJVXiXARTAjBQMnAwwyMn1U2W2tpIy5DxrjPZxQcNOZ8uxbEY9j7mnezUzsDcbzpHEst/aiHyRK3JwGJAyRggEHPxn80GtZGEQWFQCCAC3yT+qabb1m7sLaSxt4rae3uCJjFd2yTKsgGMgN6OKD2/Ui5VNB2ta2sHkgMRu2mRVVC3EQlFRScceGT2ezU91QOHU5JQjofmkm69avdSvbWO4e3i/ix+NYYIFijQE8jhR1kns/usS+mJtmhmhHNu1dD/lB//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAwD/xAAqEAACAQMDAgYCAwEAAAAAAAABAgMEBREABhITISIxQVFhcQcUM1Jicv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AIlT0s9Q0cVPBLK0rdOMIhJdv6j3Pxp4sf4v3BcYiUltsUini8T1QZ0PswTPE/et9j1Fwq9vXqko1XnRUUk1HwTDKzuokcEdyQmceoydFPwdZK2HdM1fET+utPJGZVB49Rh4Psg9/jGgXbnsK8WqSdqyGnqIKf8AmelmWUR/9gd1H2NDprcsDeOF0IXIVgQcHuO2m3ZtLX2/ftDTPTyJXfs9CriYHxIxxJzHqpUk58vXQjcl4muN3kM7rLHTA0sLBcExIxCZPqcep1Blti/tt6/UtwpuTdM8XjHYPGezL8HHl8gaq9w3dVXCL9i2VE1Jan5LDJFGkfLuQDIzKwUu4KIoXuRkkahVKGkUtxHIEAfOdPdhu0VDTwU70TVCor9JxJwePmMOvcEEHz7jIJyCM6sD/R3W71cIoJa6mgrpeEMQnh4VTB3KOWXl4WjKvnGVJXPbSbu7Zlvo7Mbla5J4uSNVLDM3ICn5hI+/nzYnPt5+2gVTeKuO+U1bSMlJUUidGFAOSxJgjGWyWJ5MST3JJOu3Nue43K2JR1CQoqxRRAw5HJY+XEYz/rJ+tB//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Banged</div>
-                                                <div class="unlocked">5 Nov 2023</div>
+                                                <div>Semper Paratus</div>
+                                                <div class="unlocked">16 Nov 2023</div>
                                             </div>
-                                            <div class="description">Kill an enemy after blinding them with a flashbang</div>
+                                            <div class="description">Navigate through chemical gas while wearing a gas mask.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+19 others...</div>
+                                            <div class="description ellipsis">+21 others...</div>
                                         </div>
                                     </div>
                                 </div>
