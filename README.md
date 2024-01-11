@@ -187,13 +187,13 @@
 <h1 align="center"> <a href="https://herestars.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&pause=1000&center=true&width=435&lines=%E5%A5%87%E8%BF%B9%E5%8F%AA%E6%98%AF%E4%B8%80%E6%97%B6%EF%BC%8C%E5%91%BD%E8%BF%90%E6%80%BB%E6%98%AF%E6%BC%AB%E9%95%BF%E3%80%82" alt="Typing SVG" /></a> </h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-448%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-454%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 9.8 kB Used in GitHub's Storage 
+> 📦 9.9 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2024
  > 
@@ -209,18 +209,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   23 hrs 20 mins      ███████████████████░░░░░░   77.38 % 
-Java                     4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-TypeScript               1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-HTML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Vue.js                   23 hrs 50 mins      ████████████████████░░░░░   81.30 % 
+Java                     3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+TypeScript               1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+HTML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-WebStorm                 25 hrs 19 mins      █████████████████████░░░░   83.98 % 
-IntelliJ                 4 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+WebStorm                 25 hrs 30 mins      ██████████████████████░░░   87.00 % 
+IntelliJ                 3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 
 💻 Operating System: 
-Windows                  30 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  29 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -236,6 +236,6 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 10/01/2024 18:37:59 UTC
+ Last Updated on 11/01/2024 18:37:31 UTC
 <!--END_SECTION:waka-->
 
