@@ -63,7 +63,7 @@
 
 <a href="https://github.com/siddharth2016/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The house where Bill Gates lives, was designed using a Macintosh computer.❞</i>
+<i>❝“UNIX is simple.  It just takes a genius to understand its simplicity.”— Dennis Ritchie   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
