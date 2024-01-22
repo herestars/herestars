@@ -187,15 +187,13 @@
 <h1 align="center"> <a href="https://herestars.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&pause=1000&center=true&width=435&lines=%E5%A5%87%E8%BF%B9%E5%8F%AA%E6%98%AF%E4%B8%80%E6%97%B6%EF%BC%8C%E5%91%BD%E8%BF%90%E6%80%BB%E6%98%AF%E6%BC%AB%E9%95%BF%E3%80%82" alt="Typing SVG" /></a> </h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 10.0 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -209,18 +207,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   22 hrs 54 mins      ██████████████████████░░░   88.80 % 
-Java                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-TypeScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-.env file                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Vue.js                   22 hrs 54 mins      ███████████████████████░░   92.62 % 
+Java                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+TypeScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+.env file                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-WebStorm                 23 hrs 46 mins      ███████████████████████░░   92.15 % 
-IntelliJ                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+WebStorm                 23 hrs 46 mins      ████████████████████████░   96.11 % 
+IntelliJ                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 💻 Operating System: 
-Windows                  25 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -236,6 +234,6 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 21/01/2024 18:37:18 UTC
+ Last Updated on 22/01/2024 18:38:27 UTC
 <!--END_SECTION:waka-->
 
