@@ -195,6 +195,8 @@
 
 > 📦 9.9 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -207,14 +209,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   2 hrs 17 mins       ███████████████████░░░░░░   76.61 % 
-TypeScript               41 mins             ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 2 hrs 59 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 59 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -230,6 +231,6 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 11/02/2024 18:36:20 UTC
+ Last Updated on 12/02/2024 18:36:35 UTC
 <!--END_SECTION:waka-->
 
