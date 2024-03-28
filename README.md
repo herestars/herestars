@@ -187,15 +187,13 @@
 <h1 align="center"> <a href="https://herestars.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&pause=1000&center=true&width=435&lines=%E5%A5%87%E8%BF%B9%E5%8F%AA%E6%98%AF%E4%B8%80%E6%97%B6%EF%BC%8C%E5%91%BD%E8%BF%90%E6%80%BB%E6%98%AF%E6%BC%AB%E9%95%BF%E3%80%82" alt="Typing SVG" /></a> </h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-631%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-635%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 10.0 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -209,17 +207,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   6 hrs 57 mins       ████████████████████░░░░░   80.64 % 
-Java                     1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Vue.js                   11 hrs 8 mins       █████████████████████░░░░   82.81 % 
+Java                     1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+TypeScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-WebStorm                 7 hrs 20 mins       █████████████████████░░░░   85.19 % 
-IntelliJ                 1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+WebStorm                 11 hrs 54 mins      ██████████████████████░░░   88.55 % 
+IntelliJ                 1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
 
 💻 Operating System: 
-Windows                  8 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -235,6 +234,6 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 27/03/2024 18:36:34 UTC
+ Last Updated on 28/03/2024 18:38:07 UTC
 <!--END_SECTION:waka-->
 
