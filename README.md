@@ -187,15 +187,13 @@
 <h1 align="center"> <a href="https://herestars.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&pause=1000&center=true&width=435&lines=%E5%A5%87%E8%BF%B9%E5%8F%AA%E6%98%AF%E4%B8%80%E6%97%B6%EF%BC%8C%E5%91%BD%E8%BF%90%E6%80%BB%E6%98%AF%E6%BC%AB%E9%95%BF%E3%80%82" alt="Typing SVG" /></a> </h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-717%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-721%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 10.2 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -209,16 +207,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   6 hrs 28 mins       █████████████████████████   99.98 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Vue.js                   7 hrs 4 mins        █████████████████████████   98.46 % 
+Java                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-WebStorm                 6 hrs 28 mins       █████████████████████████   99.99 % 
-IntelliJ                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+WebStorm                 7 hrs 6 mins        █████████████████████████   98.83 % 
+IntelliJ                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 💻 Operating System: 
-Windows                  6 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -234,6 +232,6 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 06/05/2024 18:37:00 UTC
+ Last Updated on 07/05/2024 18:38:07 UTC
 <!--END_SECTION:waka-->
 
