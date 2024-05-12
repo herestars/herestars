@@ -63,7 +63,7 @@
 
 <a href="https://github.com/siddharth2016/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Only about 10% of the world’s currency is physical money, the rest only exists on computers.❞</i>
+<i>❝“I’m not one of those who think Bill Gates is the devil.  I simply suspect that if Microsoft ever met up with the devil, it wouldn’t need an interpreter.”— Nicholas Petreley   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
