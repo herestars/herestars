@@ -187,15 +187,11 @@
 <h1 align="center"> <a href="https://herestars.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&pause=1000&center=true&width=435&lines=%E5%A5%87%E8%BF%B9%E5%8F%AA%E6%98%AF%E4%B8%80%E6%97%B6%EF%BC%8C%E5%91%BD%E8%BF%90%E6%80%BB%E6%98%AF%E6%BC%AB%E9%95%BF%E3%80%82" alt="Typing SVG" /></a> </h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-912%20hrs%2052%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 10.9 kB Used in GitHub's Storage 
- > 
-> 🏆 2 Contributions in the Year 2024
+> 📦 11.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -203,26 +199,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Java                     4 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
-Kotlin                   3 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-Vue.js                   3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-YAML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-TypeScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-
-🔥 Editors: 
-IntelliJ IDEA            12 hrs 31 mins      ███████████████████░░░░░░   74.99 % 
-WebStorm                 4 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
-
-💻 Operating System: 
-Windows                  16 hrs 42 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -236,6 +212,6 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 23/07/2024 18:39:06 UTC
+ Last Updated on 24/07/2024 18:42:08 UTC
 <!--END_SECTION:waka-->
 
