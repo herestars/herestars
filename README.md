@@ -193,7 +193,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 69.6 kB Used in GitHub's Storage 
+> 📦 68.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -207,13 +207,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   1 hr 37 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 1 hr 37 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -229,6 +229,6 @@ HTML                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 06/10/2024 18:41:09 UTC
+ Last Updated on 07/10/2024 18:43:43 UTC
 <!--END_SECTION:waka-->
 
