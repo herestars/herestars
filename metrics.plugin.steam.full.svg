@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="455" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="495" class="">
     <defs>
         <style/>
     </defs>
@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            1.01k hours played
+                            1.02k hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        2 hours played
+                                        6 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 8 Oct 2024
+                                        Last played on 10 Oct 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,17 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            1 / 43 achievements unlocked
+                                            7 / 43 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAwUGAQQH/8QAKRAAAQMDBAEEAgMBAAAAAAAAAQIDBAUGEQASITFBBxMUFSJhMlFxwf/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAAYH/8QAJhEAAgEDAgQHAAAAAAAAAAAAAQIDAAQRITEFEkGhIlFhkbHR8f/aAAwDAQACEQMRAD8Ak7+vq7GLuqvzqhU4kWPLcj5psvDbYSsgZR1nHeSM6YU+t1555qOm7qg7IcSFoa+StLhBGQCk8g/rvVJVbOdRddaqodQ58mc64WAnkoKzwc8H/NIIlgyYaGZUmUr7R58OstxjucRglw7k4znaCcg4BAHO4aqlzfKzMobGO/5WgWkcdsqsSGBxuBoaxVZ9zxgj3rpqcUKI/J6YUcHyMkZ0b07uG7nLgpMyXUp4p7tSbhBp6Qt5MhClbVKySU8eCnHI44zrn10olyJ0l2sIkCYpRUv5QPuAHkA7uetW1mRjFqtn0919SZkN+LNlMqTt2NrOUDvk8DOB5GedGgkdFUs+cke1D4jGHcLygDB266U5ui8HoNVumEIr7yYst9aX0rG0JCiVJJyCgpPX6xjRnPUNEuGyzRGG01k+20+C2talpOzchvICiO85x/DjvUrftmXI1f8Ac7i6LMfp0+Q4pp9poqQsOrTtG4Dg8856xnU5XbVuS2a0r6qmVVcWQ3vZW3HUtSUHtCikEBQP/NSbh8cjkEa7j1pEXEfhZtR8H6oly1dT7aJ8tCX3gpz2/wAAkbUkbN46Izu489daa0SKqJf9pqgSE/atyWI7yn1KIfSSNwz4xkgDgYCf60GgUy52VTGYlDqylJhRkhKYrgyeVK8eCs63rCs675PqTQpk2hVGLFjTG5Dz0lkoSlKTk8ns+ABokED84UDCjvmm7qaCSEuTrsB5Y61//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUGBP/EACsQAAEDAwIGAQMFAAAAAAAAAAECAwQFBhEAIQcSEzFRYUEUFSRxkaGx4f/EABgBAAIDAAAAAAAAAAAAAAAAAAMGAAIE/8QAIhEAAgEEAgIDAQAAAAAAAAAAAQMCAAQFERIhMVEjYaHB/9oADAMBAAIRAxEAPwCBdty3dU+JVxRYdenQ4kOS800yzI6SQlBwNvknG510QahdK0Dq3HVs+PqVa0NIpNPm3xeDsqMl2SiqOhKlKOOVROds47jSrRaZEjNJ6MZps47pQAf30lZTJMUwxifFPym29ikbXykfdBFUm3a02encVYQrl5gDIUNu2f01PsS7LwicQrcZm1yoSYU6YmM4zIeK0qSVBKtj8jIII0y8T4ERdHedkVF2mB9pUNcocpQlKtxzgjOMgjIwRze9DdnR68zX7MTWWViP90bS0+Sk9QBwY7bjAG2cZGtGLvWNAkTvvXf890J7U3az8fE6OiPqtVQZyU8U7vjE7rmPkD2lz/dLlLmpU2BncDfQBdttXrSeKFdqFKotQfZky3XmZEdjqoKFnPg7+j41SjtXq6j8yiVxZPfLC/60HKY2bJmURvdWVBd8sbmI6A80l8UHo0+0qjBTIZEpxrLIKxkOJPMn+QNBdhIlwLwtSDOmuPkVNlSGeoVNsZUMhPvydaOrwbqdYQmPa9WBCcEpiq3OTqTYVnXdI4kUGXNoVRixI0xuQ69JZKEpSk5O57n4AGjYmzakcZDQ3uo9VvZqOpcpd/tf/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Now That's Teamwork!</div>
-                                                <div class="unlocked">8 Oct 2024</div>
+                                                <div>Jammin'</div>
+                                                <div class="unlocked">10 Oct 2024</div>
                                             </div>
-                                            <div class="description">Have Moira stun an enemy and Claire follow up with a physical attack in the main campaign.</div>
+                                            <div class="description">Evaluate an item in Raid Mode.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABgQHAgMF/8QAKxAAAQMDAwMDAwUAAAAAAAAAAQIDBAUGEQAhMQcSQRNRYRQicSMzQlKh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMGBP/EACcRAAEDAgQFBQAAAAAAAAAAAAECBBEAAwUSIVETMUGh8GFxgZHB/9oADAMBAAIRAxEAPwAxfN3XdK6kV6LErdRjRY81yOyxGdKEhKTgbDkn31ki4rnQ8uM3W65Nktg+omPIKwg+xUMjPwNIGKK1UL9u8uQBLK6k62C7s02Cskkn+3AAAJGSdttQ6gxU51Fqk6gQKdAoEDub9VuMlK3+whKikkEgbnyOPfUw6dk3CmYj1ir5sEWUpQkCdJJ3PQVzplauhMVS3LjqsJ1OP0n5nao54wM7/jnUewrwu+N1JoUObXKjJiyZjcd5iS6VpUlRwdjwfIOnAslukGBBuOHAqcWUPRj1Blktux3cdyUKPkKx9quQdvONHVUqHT+qVqoigIX9eypbfcTg+pjuGTnB5/OdBk+zrCQZB89/ulX+G5QRA5aEadqSWy88vqDeaBIxHaqbhLPYN1lZ+7u52CcY+db7NqLKumVcp0hwvJjmZDLbbJyyCVkdxzvznPjI0Vr7d02V1FueoItufUafUZhcbcYbUpBSVFQwUg4VvjceD76JUqt3jS5tYdhW1P8Ap6k84+phyE8oIK8jY4Gdj550HWG3Ly1kDqCPisandpYSCduwq5r4rEc2Tb9WckOpAXCcbQCkpKlFGScjOQO4ZBHJ0Jq7DMfrdbrzWPUkTWEO77kpLZT/AITqr6mzedRpkWmy6dW1wYv7LJhOYT4H8fGdJ+ndKuyudVLfmVaDUu5mU0869IjLbSlDf5SBnAA+dOZYYpsQZ3/IpBdISMqPOdf/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Raiders of the Evil</div>
+                                                <div class="unlocked">10 Oct 2024</div>
+                                            </div>
+                                            <div class="description">Clear one Raid Mode mission.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+5 others...</div>
                                         </div>
                                     </div>
                                 </div>
