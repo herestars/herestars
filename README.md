@@ -195,6 +195,8 @@
 
 > 📦 69.0 kB Used in GitHub's Storage 
  > 
+> 🏆 23 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -207,17 +209,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   1 hr 43 mins        ████████████████████████░   96.81 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-yarn.lock                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 1 hr 46 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -233,6 +231,6 @@ HTML                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 14/11/2024 18:45:33 UTC
+ Last Updated on 15/11/2024 18:45:36 UTC
 <!--END_SECTION:waka-->
 
