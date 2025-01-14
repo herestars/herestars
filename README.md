@@ -187,13 +187,13 @@
 <h1 align="center"> <a href="https://herestars.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&pause=1000&center=true&width=435&lines=%E5%A5%87%E8%BF%B9%E5%8F%AA%E6%98%AF%E4%B8%80%E6%97%B6%EF%BC%8C%E5%91%BD%E8%BF%90%E6%80%BB%E6%98%AF%E6%BC%AB%E9%95%BF%E3%80%82" alt="Typing SVG" /></a> </h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C196%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C202%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 69.3 kB Used in GitHub's Storage 
+> 📦 69.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -207,17 +207,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   12 hrs 39 mins      ███████████████████░░░░░░   77.45 % 
-TypeScript               3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+Vue.js                   12 hrs 40 mins      █████████████████░░░░░░░░   69.60 % 
+TypeScript               5 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   30.22 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-WebStorm                 16 hrs 21 mins      █████████████████████████   100.00 % 
+WebStorm                 12 hrs 34 mins      █████████████████░░░░░░░░   69.05 % 
+Webstorm                 5 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.95 % 
 
 💻 Operating System: 
-Windows                  16 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -233,6 +234,6 @@ HTML                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 13/01/2025 18:45:39 UTC
+ Last Updated on 14/01/2025 18:42:46 UTC
 <!--END_SECTION:waka-->
 
