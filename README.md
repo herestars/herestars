@@ -207,13 +207,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   1 hr 59 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 1 hr 59 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -229,6 +229,6 @@ HTML                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 31/01/2025 18:42:35 UTC
+ Last Updated on 01/02/2025 18:39:49 UTC
 <!--END_SECTION:waka-->
 
