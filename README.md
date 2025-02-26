@@ -187,13 +187,15 @@
 <h1 align="center"> <a href="https://herestars.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&pause=1000&center=true&width=435&lines=%E5%A5%87%E8%BF%B9%E5%8F%AA%E6%98%AF%E4%B8%80%E6%97%B6%EF%BC%8C%E5%91%BD%E8%BF%90%E6%80%BB%E6%98%AF%E6%BC%AB%E9%95%BF%E3%80%82" alt="Typing SVG" /></a> </h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C263%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C266%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 69.5 kB Used in GitHub's Storage 
+> 📦 69.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -207,17 +209,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   14 hrs 50 mins      █████████████████████░░░░   85.49 % 
-TypeScript               2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-.env file                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Vue.js                   14 hrs 54 mins      █████████████████████░░░░   84.75 % 
+TypeScript               2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+.env file                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-Log                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-WebStorm                 17 hrs 21 mins      █████████████████████████   100.00 % 
+WebStorm                 17 hrs 35 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -233,6 +235,6 @@ HTML                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 25/02/2025 18:45:46 UTC
+ Last Updated on 26/02/2025 18:45:26 UTC
 <!--END_SECTION:waka-->
 
