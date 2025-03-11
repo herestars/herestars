@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="495" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="399" class="">
     <defs>
         <style/>
     </defs>
@@ -85,32 +85,7 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            14 / 32 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBQgE/8QAKRAAAgEEAgICAgAHAAAAAAAAAQIDBAUGERIhADETQSJRBxQVMlJhkf/EABcBAAMBAAAAAAAAAAAAAAAAAAACBQP/xAAnEQABAgUDAwUBAAAAAAAAAAABAgMABBEhMUFRYROhwSJxgbHR4f/aAAwDAQACEQMRAD8AQWD4mb689VcJWpLPTsqTVAA5Fj3wjB0C3EEnZAUDZPrejrDhOOWfGYbpTW+0rA7pGmo0r5n2ey8sm19Ak8FUADfY8VVvudrx5rDasiSc2JYVqK0LFzFTIVR/iAGvx5cWbZ2eCg9eFVRUWC8YLfrPjd2pZauGkkkipIEkXlGACOK8fybj+PWz2QfvyfMzS2zQJN7YxzFGWl2lAqWoWoQN9af37g7uWD4nkOJNcqq3Wpl+RogViSjm3y0OMsehsggjkrDRBOh5mn+IWFNjhpq23TGtsdWzLT1PRcN7CSBdgMV0wIJDDsH3psWO4YqMBtVJeLrHEWgiD0k8T9hU07ldeiNgN96UD9eVN2vNjyOXI7TjcbrYZUElCvxGNaaQo7CLR30JAWXWtfI4HXhLzS3CQUm1sZ5gmZdlNFNqHqvTbWnO1YkxGuprraxHXCKWmrYIiYpkDxs6qEZSD9hoz+iOQI8HM7xKotsjw0UIpmpIXraKeJwvy0jMC6k++UbuQN9lW19DwOwvKDY5Wgqo2nt0rBnjHtG6/Jf+DY63odggHxnZJVUGcYpSw2y4UP8AVaKR1gMs/wARankUh0beuw3EjfX93jvtLDocRjXwfB49ozQ+hTPSWLg1B42r3EUWH4zW3GohttxcSC4hK66VTyc/5eiiJKqW+i5APvegn+/DTJ0teP41K9BGlNDTxvOIVXiA5VkRdHZ3ydeySx0SegAOOzV9swrCpbfWXWlNyqphPVyo4fmFRQiKB2eP5D0dk7+wfFZnOXPkEq09MrxW6NuSqx/KRv8AJv1rZ0PrZ9kk+DDbhcLi8aDzTsOBzCrcQlrpoFzn8r3PxH//2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Maximum Survivor</div>
-                                                <div class="unlocked">7 Mar 2020</div>
-                                            </div>
-                                            <div class="description">You reached the Maximum Survivor Level!</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAQj/xAAtEAACAQMCBQMEAQUAAAAAAAABAgMEBRESIQAGBxNRIjFhFCNBgSQycsHR8P/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAD/xAAjEQACAgECBgMAAAAAAAAAAAABAgADIRFhEhMiMkGBQsHh/9oADAMBAAIRAxEAPwDnnkrlaXmKs+40kNCjhHkRNTux3CINgWIBO5AAGSfNZuFtsvKtPHQ26w0NTdphoihmh+rdidsySsQFxufQo32B98b07SC02QM+texSahpAJMrqGJ3IGMsoJJ9kHBXpndbcnWWorLirzpFO30zgDAVlCRygH3GSuPGseDxOrM7FyekY97yiuoMwTyc/eg3g7lSxWPmpaix3uzUMF5iYhe2hppD/AGSqSDtuNasM5HjiWdROSp+UrjhJHqLfI5WOV00ujDcxyKCQrgEHYkMNwSPa5daJLTF1BsklrP01c7vPVOhx2odyrNg/j1H9H44E9Rq6DmnlSKqZzNJPAaeSQx9vXLGhdXA3xhgy+5HrYA44DO6sr69Jx72mtrCuUHjP4YG6b19FWxwR3AhoKiFYiCcANo7Z/YK+3yDwLvV6a33n+RS0xrtXbklqA2NIDBycAkBx/UNxqYnifcr397NOVkQy0chBeP58j/v8cO9zvdtudFOyVQc1MYi7aj1odQJJHjSMZ4eusq7D4tE5hHC69yzRzJWXfmKoaBYKq7VH2VqoAxBLYwcsMnQAAo2GRqwTvw3dRXoLLYxSUTAU9vp+yuDnuS4K5/bNn9HhFsVba7QzVk9UkMsSBUQDU5OSMj5xp3xwr828yS3yZURWio4zlIydyfJ/1+MnyeBbWXdVHasIsJ4nbLGf/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Alpha Ascension</div>
-                                                <div class="unlocked">10 Dec 2019</div>
-                                            </div>
-                                            <div class="description">You Ascended off the ARK, at Alpha level!</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+12 others...</div>
+                                            0 / 32 achievements unlocked
                                         </div>
                                     </div>
                                 </div>
