@@ -187,11 +187,15 @@
 <h1 align="center"> <a href="https://herestars.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&pause=1000&center=true&width=435&lines=%E5%A5%87%E8%BF%B9%E5%8F%AA%E6%98%AF%E4%B8%80%E6%97%B6%EF%BC%8C%E5%91%BD%E8%BF%90%E6%80%BB%E6%98%AF%E6%BC%AB%E9%95%BF%E3%80%82" alt="Typing SVG" /></a> </h1>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C320%20hrs%2051%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 69.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -199,6 +203,26 @@
  > 
 > 🔑 4 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Vue.js                   9 hrs 35 mins       ████████████████░░░░░░░░░   65.79 % 
+Java                     3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+TypeScript               1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🔥 Editors: 
+WebStorm                 11 hrs 4 mins       ███████████████████░░░░░░   75.94 % 
+IntelliJ IDEA            3 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+
+💻 Operating System: 
+Windows                  14 hrs 34 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -212,6 +236,6 @@ HTML                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 27/03/2025 18:46:44 UTC
+ Last Updated on 28/03/2025 18:48:25 UTC
 <!--END_SECTION:waka-->
 
