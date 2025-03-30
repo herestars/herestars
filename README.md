@@ -63,7 +63,7 @@
 
 <a href="https://github.com/siddharth2016/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“XML is not a language in the sense of a programming language any more than sketches on a napkin are a language.”— Charles Simonyi   ❞</i>
+<i>❝Windows doesn’t allow for creation of folders tagged CON, PRN, AUX, or NUL. These are keywords reserved by DOS.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
