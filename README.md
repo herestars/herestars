@@ -195,6 +195,8 @@
 
 > 📦 69.7 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -207,13 +209,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -229,6 +231,6 @@ HTML                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 18/06/2025 18:50:41 UTC
+ Last Updated on 19/06/2025 18:49:09 UTC
 <!--END_SECTION:waka-->
 
