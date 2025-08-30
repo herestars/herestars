@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            1.09k hours played
+                            1.10k hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        13 hours played
+                                        17 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 29 Aug 2025
+                                        Last played on 30 Aug 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            21 / 54 achievements unlocked
+                                            23 / 54 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAP/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAEiEGMUETImEUFVEWQnGh8f/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQD/xAAjEQACAQMCBwEAAAAAAAAAAAABAgMAESEEMRNBcYGhseHw/9oADAMBAAIRAxEAPwCH1EzVc2XkdmOFPgADgYA+Bola+noK6kqZDUpFUJxDAynMp7n3dhgc8n41p6EtMFwSaetqKWKnhZQ4nrUpy27PYsD4B7c6L3K1W24XmmtdnqaOuCo7SVCtn0wT2BXO7J4+PjTmpnCAKuO2ABnNIIhyScUmC3ELkrweQ2ONdqOV6eYMjkMMrzyCCMHg/B0zzS9RTVcdhMUP2xWBb0qWJMiMEcuBkkduefzpcvNEaffIquqBjHuPhhyR/OjQ6mOUWFvhoTA3wb1q6dn6ml6PuNNbwk1hedIamnlRJFErcqyqRuDDvuHbTRZ7TRWmwSNTs61slQsQIGVcYwGVuP3eM47al7vcLRdWlhjlikU7wy+4YIyDkcEEH+9FqHrGohpJInjDSOyuJiDuVh5Hj/BqVqY5WYGM1WhaDhlXGf3uq5ZAv0yULVS+hCSlSJ2UA5PL5AztyB7fGdTvr+9UtbLDTW9aqKlikYRQO+Y1UEqGX8kgd/xjWH9dN9PR09RQiaCAkNtbY0qHOFJwexIOfjQq6V9d1J1AKoUfp7zuCqu1VUDJyeBwBrQJKsxkfa1t9rcx18Uoyi5Ir//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABAMFBgf/xAAmEAACAQQCAQMFAQAAAAAAAAABAgMABBEhEjEFEyKxFDJBUWFx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEAv/EACYRAAECBQMDBQAAAAAAAAAAAAECIQADBBESBUGBE2HwMVFxodH/2gAMAwEAAhEDEQA/APDbu4NxKWkkdm0p/AAGhgDXQo7QKFV+PFGJCswODjvBo8LO0TDeeJbJHdNgkaey+lPanI/h7+DVk+rTKsAPnsIdDpq6rK5IY49yzciIpEpzkDAxv/afZTPBKGSQgjK/sEEYOj/DUby1NlYhpGyzGgrKCvZBI1RSVInZHa7Q9V05VD05amVa558+onY+RSEGK5RigDBR3jPxSrH6hvJWvrYVJG4jkRoLv4rK8paXFvdyrJbuM+7I9wwdggjXRFCWRhnKlvbgcs6qKbISblO/jRXS6mtGAW+JBD24LHZh7R0/mPJxXchWFvsbjz7AzrNZ9xaPbxozMXJkCZB11nH7rIjnmjR1TIVwVPt/FPsor69vYB6cshGwW0AoGTs66FEiSZRASwEar9SFdlMni6z6bAfrWj//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>All that Glitters </div>
-                                                <div class="unlocked">29 Aug 2025</div>
+                                                <div>Strip mining </div>
+                                                <div class="unlocked">30 Aug 2025</div>
                                             </div>
-                                            <div class="description">Simultaneously mine every resource type in the game. </div>
+                                            <div class="description">Leave nothing behind. Extract at least 75% of resource veins in any map. </div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwQAAgUH/8QALBAAAgIBAwIDCAMBAAAAAAAAAQIDBBEABSESMQZBgRMUFSIyUWFxJDORof/EABgBAAIDAAAAAAAAAAAAAAAAAAIFAQME/8QAHxEAAgICAgMBAAAAAAAAAAAAAQIAESFRA3EEEhNB/9oADAMBAAIRAxEAPwDiE062rBNiZhkdJPYDHAGB5YGrSbdXFf2kUnWRgZ8hnSezvG83RZZkjP1OB1FfTTpWs0IaF2BDdpDg+mO/npl6FmBBoai8uEWqkqUKMlZ2sW0hmVyojZSSwAB4/efPjjTbp8PsQtBP1BkyDkMCp4II7djqbY20CP2e7e9K5kbMkLfKq8YyCp/PI/zSm/CnDaK0LBmiIPSxPPf9DUqpDEk41BZwQABncyNlspXss0sAlUcGNgdam4W6M8IatEYXwMoIsZbPP40rRtS7Fuszz0TIDhukjqUgjIIYduCNaniLxlR3PYkp16VuGYEFizqyceY+UMD641ibyHRwAtjfcbcSoeEksAaOKz+wG27ht0dEx3tvM0wbImViBjPmvmfsc+mlfEk+3Sy0PhUM8LGL+Qkmf7Mn6fxjH/dApeI2q0IK6xsFjZmPyA9Rb75/Q0S9Zl3q5R91qSB0DM5ZAi4HJP24AOiHOxaqxu5W6r8sMOsz/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUHBgL/xAArEAACAQMCBAYBBQAAAAAAAAABAgMEBREAIQYHEjEUMkFRYXETJIGhouH/xAAYAQACAwAAAAAAAAAAAAAAAAADBQABAv/EACMRAAIBAQgDAQAAAAAAAAAAAAECAAMEERITFCExQSJh0fD/2gAMAwEAAhEDEQA/AIdV1BqJS0kjsxwp9AANhgD4GhWjiDMNgVOMHWg5d2Nr5W1U8+Vt1tharqZD228qfZbH86BqbPUVNygFMg/WFihJwOoDLAn63/fTxaRaljUeomzgKppk8C+Lo4oy3S2AfQnR9FM1PKGRyCMr7ggjB2Pwddy8OXCnz4hoUwCch+rf0HbS+aGaCFXmRkDllVvQle+DqGmyDyXaaxq3DS58jrVBWcqrkKd4ZppqotU0r7ElOyn4xg6zXMizy2rhRp6iAU0HiUZGjbDAgEEKfchv66mFFeL9wrc6h7VJPStJguFHWjg7g+x2OgOIOJLvf2Q3WsmnCbohGFX6GgraUSkR2ZehDVs4H9v9mhuFxsYWI0ctXkxYB/I+RnOerfzf5jTzia98K13BNrprY8wucNLDB4doSCjqcu3V23JY5G56tSrLezY+tMLbSVU9XCsUDtv1ZI6QABknJ27A6GbYzdAQukUXEkm7ef/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Inspector Gadget </div>
-                                                <div class="unlocked">29 Aug 2025</div>
+                                                <div>No Water? No Problem!</div>
+                                                <div class="unlocked">30 Aug 2025</div>
                                             </div>
-                                            <div class="description">Have all the available upgrade, consumable and weapon slots filled. </div>
+                                            <div class="description">Transfer 5000 of any liquid through compressor/decompressor.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+19 others...</div>
+                                            <div class="description ellipsis">+21 others...</div>
                                         </div>
                                     </div>
                                 </div>
