@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="495" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="510" class="">
     <defs>
         <style/>
     </defs>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        27 hours played
+                                        29 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 3 Sept 2025
+                                        Last played on 4 Sept 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            29 / 54 achievements unlocked
+                                            31 / 54 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYAAQQH/8QAJhAAAgEDAwQDAQEBAAAAAAAAAQIDBAURABIhBjFBYRMigVEUUv/EABYBAQEBAAAAAAAAAAAAAAAAAAMFBP/EACARAAEEAQUBAQAAAAAAAAAAAAEAAgMEEQUSITFBFFH/2gAMAwEAAhEDEQA/AOK1tW1RNukdmIwpA+owOB247aunoaepUSQiSXayq8e0jbknu3bGAfetjW2hroi1vqSrE8pIMc/znRnpPoanv1tkqa67f44qPezxqvgEZfPvIH5qldtCGPPil0W/VJsZ2PDwgVztVFCY2RhGSxjkRZBMqtgMuHGMgqw/QdZ6R2p5QySYIyv/AECCMEYPo6NXiga12yWCn2VFK0xdJcD7jGQT+Z0qfNHvBYMo8gd/zR1Z2yM/UtuF8T8FNDTUzxhXQIB/Rpq6Lu9LRWiqplhjkmWZWEjsADG3BUnB8jt70j09VHUXhYLrFJS0nElRPH99sZGcjwSRjHs6lZ1QprPmttLFFbEAjFIyZBUeXPlvOfesVsGVpb2EejxSVrAlccAd+o31XcHuF8tkUM6ihJdlcsFRm3Fe/bAzj90j3Wnanq/gkBhlXgxOhU9/enO5dYWK4dKTUL0siVWQ8P1GIpOBuDDxgdtEpb/bOq+iBa7xE8l7tsIe2V7whW2IeYHcdxtzgn15HIVAWjkYwrOokSO3B2c8r//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYBAwcF/8QAKxAAAgECBAYABgMAAAAAAAAAAQIDBBEABQYhEhMiMUFRFGFxgZGhMsHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EACERAAIBBAICAwAAAAAAAAAAAAEDAAIEERIxQQWRYYGx/9oADAMBAAIRAxEAPwDOdA6Nrtd51PJLPyaCADnTt0oigWGw+Qxpdfo7ROWwikpaD42cdJlmkYb++FSNvviNAScjQ+UUWUNZKuVqipnYd1DFRe29tj+cUapzCaoziapWCGGSLpkSFSQ21w5t24v6wb+6aoaW44kfGWiXV5ueDxEHWOj8gpHiNMjUcs2yMrlwD5up9bdjhJrabNMizmOklciRVurA8cciMP5C+xUg41zV88VTk1PGWilWYAMsZu6bm5X2Vtv9cIepc2oWoMupeX8StM0iidV4HYX237nbwfW2BZPa2jDxg/vqPd261VkpOR89e4bpHNZJNHRGFmWbL2eJ079LEkH9/rA2Z6prKGdJIKpk5icBUWAYbixHm2/5xzaSnq8gzOSel5ciyAcyGTdJEIuL/Y9xgPM5p3MUkFMvMifiXiAa23byD/gw7kbVbiSTXqcSMzz+qgamkpZokmiRuIqL34vLfOxt9BhbqKyWc8V+pjey9ifdsHVlHX1NQ8ki7ydZLG174LyzTsstUlwXI6iE7AAXO528Y1CyPqWrYDknuf/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>It's bigger than I thought </div>
-                                                <div class="unlocked">3 Sept 2025</div>
+                                                <div>Next planet, please </div>
+                                                <div class="unlocked">4 Sept 2025</div>
                                             </div>
-                                            <div class="description">Build the first Megastructure. </div>
+                                            <div class="description">Achieve your final goal and save Galatea 37 </div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBAUC/8QALBAAAgIBAwMBBgcAAAAAAAAAAQIDBBEABSEGMVESBxRBYXGBEyIjMkJDYv/EABcBAAMBAAAAAAAAAAAAAAAAAAMFBgL/xAAmEQABAgUEAAcAAAAAAAAAAAADAgQAAQUREiExQVFhYnGBocHw/9oADAMBAAIRAxEAPwBMG6ZXJkdmJHpPwCgYAxj5DUThEkJ/EGR5PfXGywV5q4kuyTGMsVKQ49Z48n7aPendtXYI03DcacU27SENXinQMKg7BnB4L8cD+Pxyex3LwQN4Oxprl3ZKPX28fqMCPp6T3WZ7ySQCIBgfQf1MkflB7E86yqlkxSLIjMnJUBiG4IwQR2PB04bN3brHTvvVuzct7tIxEhlYCKNfHzyPjxjSNvWxYu2JfSqMSQAvYY8aA0MUxb6W6jT8IQCxtPLvmCD2ZJFXsPuBIa1E5VEP9P8AvHnx4+ujy2iSxM0xVs8g/bSZis7hsO8tPDA4Pd1/cro3OMjjBBGtvqDrk3NsWpttd64ZcOTksPodKn9PKZxIiVXlFTRK4yaMsJpxWnfzfviJerOpZT66NKUegZDuNBsTsZFXnvqmWc8kMc6v7bUtT24Vigc8lskYAAGScnjsDpw3HIKcZRI1B2p4VRVaX46j/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABgcDBQj/xAArEAABBAEDAwMCBwAAAAAAAAABAgMEEQUABiESEzEHUWEicRQVMkFSgZH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAEF/8QAJxEAAQIDBwQDAAAAAAAAAAAAAQIDAAQRBRITITFB0SJhcfCRobH/2gAMAwEAAhEDEQA/AJXjor+5cpHhxUyH5jriUBCKArxQ+ANX7E+me2MZklRsrlIzLiiio63R3P4gn5Js+3+ajvovmWMLlXpBUl2Q80qP1eFspUKLiDR+ofbSbPYfcmPgZfPxZE+U0iSqIqTJabDjTHSFhVj9HNAq4FEeLOsnQ5jJaJAR545EUNlbbGOkdR991h3uX0/2fkZcOLAyDbjkhxaLStJT9IAKQvwFfUK82eNc+5WHLwOdlQ5Xcbkx3FNKS5zxyOQeOQdI8VhM67tqLuGb+Nj4qdlG46QylAW42u+t1IPzQBHB5PNDWH1PmxM/nEPQXkoaixkRO45anHe2KC3DQBWRXgaWzwsPLbBBR55gpltb8vikG8IJenGWj4rdkOTOZU6w2o9aPj31RGlZTKQ0YqdmXPyzIZKTIkohr6EqQWrANCibTYB4HH9RyUzJg5JSlMLSQoLsDqBB5BBHBFEacYrd8QY9lLzKxLS+t8KACUhRSRVVdEEjitQzqFhd9vcc0/Y6NmpafbDbmoIoKgakV17QsjSzgWHcZPflS9vMTWiy2+srLKC2FWPaiQaHHnUz3PEREy0luJM77AdUGlo5DoB4I+41udy7hYl4N9cZtaZLzqVvXwL6SBXsP2r2rR3bDffmBExha1eUqWCEgAWbPjwNJJVTVfz9QNsHBSltAyz3rleVTMdjH//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Forbidden Knowledge </div>
-                                                <div class="unlocked">3 Sept 2025</div>
+                                                <div>Final Form </div>
+                                                <div class="unlocked">4 Sept 2025</div>
                                             </div>
-                                            <div class="description">Complete all research in one tech tree. </div>
+                                            <div class="description">Equip every single weapon slot for Mr. Riggs with extreme variant gear. </div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+27 others...</div>
+                                            <div class="description ellipsis">+29 others...</div>
                                         </div>
                                     </div>
                                 </div>
