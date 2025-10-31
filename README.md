@@ -63,7 +63,7 @@
 
 <a href="https://github.com/siddharth2016/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝HDMI charges its licensed manufacturers $10,000 per year plus $0.15 per cable, reduced to $0.05 if the HDMI logo is on the socket.❞</i>
+<i>❝“From a programmer’s point of view, the user is a peripheral that types when you issue a read request.”— P. Williams   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
