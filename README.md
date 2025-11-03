@@ -63,7 +63,7 @@
 
 <a href="https://github.com/siddharth2016/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The microcontroller inside a MacBook charger is about as powerful as the original Macintosh computer.❞</i>
+<i>❝“I see little commercial potential for the Internet for at least ten years.”— Bill Gates, 1994   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
