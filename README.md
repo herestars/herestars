@@ -187,7 +187,7 @@
 <h1 align="center"> <a href="https://herestars.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&pause=1000&center=true&width=435&lines=%E5%A5%87%E8%BF%B9%E5%8F%AA%E6%98%AF%E4%B8%80%E6%97%B6%EF%BC%8C%E5%91%BD%E8%BF%90%E6%80%BB%E6%98%AF%E6%BC%AB%E9%95%BF%E3%80%82" alt="Typing SVG" /></a> </h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C518%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C518%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -209,17 +209,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   9 hrs 17 mins       ███████████████████████░░   93.39 % 
-TypeScript               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Vue.js                   9 hrs 25 mins       ████████████████████████░   97.26 % 
+TypeScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Trae                     9 hrs 56 mins       █████████████████████████   100.00 % 
+Trae                     9 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -235,6 +235,6 @@ HTML                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 10/11/2025 18:48:44 UTC
+ Last Updated on 11/11/2025 18:49:36 UTC
 <!--END_SECTION:waka-->
 
