@@ -63,7 +63,7 @@
 
 <a href="https://github.com/siddharth2016/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first-ever registered domain name was Symbolics.com for free.❞</i>
+<i>❝“If you automate a mess, you get an automated mess.”— Rod Michael   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
