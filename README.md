@@ -187,7 +187,7 @@
 <h1 align="center"> <a href="https://herestars.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&pause=1000&center=true&width=435&lines=%E5%A5%87%E8%BF%B9%E5%8F%AA%E6%98%AF%E4%B8%80%E6%97%B6%EF%BC%8C%E5%91%BD%E8%BF%90%E6%80%BB%E6%98%AF%E6%BC%AB%E9%95%BF%E3%80%82" alt="Typing SVG" /></a> </h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C535%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C536%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -209,14 +209,14 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   5 hrs 25 mins       ███████████████████░░░░░░   76.37 % 
-TypeScript               1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
+Vue.js                   6 hrs 43 mins       ██████████████████████░░░   89.76 % 
+TypeScript               46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
 
 🔥 Editors: 
-Trae                     7 hrs 6 mins        █████████████████████████   100.00 % 
+Trae                     7 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  7 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -232,6 +232,6 @@ HTML                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 01/12/2025 18:56:44 UTC
+ Last Updated on 02/12/2025 18:55:08 UTC
 <!--END_SECTION:waka-->
 
