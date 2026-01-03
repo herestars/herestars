@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        173 hours played
+                                        176 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 31 Dec 2025
+                                        Last played on 3 Jan 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,7 +160,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            76 / 171 achievements unlocked
+                                            77 / 171 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwUGAgQI/8QALBAAAgIABgAEBQUBAAAAAAAAAQIDBAAFBhESIQcTQXExUWGBkRQiIzJScv/EABYBAQEBAAAAAAAAAAAAAAAAAAACBf/EABoRAQADAQEBAAAAAAAAAAAAAAEAAhExEkH/2gAMAwEAAhEDEQA/ABuGOV7HGMyPI8nBEXcliT0APU74krtW7HGElhmVUkaDzODAeYo3ZCf9AdkYTPAnI4TqG/m7qJ56FQyVYwu+00nIBvcBT+cS1SotPSel7Ukd67Rt5RahsTUYjNLWs2dmeUKOyxHNCfTGnUOM0m7V8kDPItPxMUdpg0ghB4tsZCNwn/RHYGMP3rKquZAyvxYEkEEHsEYaczoCzpTU9xIb1ahVy2rHWmvRGKaazX3Ky8T2CBxTf1xX/GzKUp6oy7MEQI+ZV1knUDb+VSAx9yCN/bFWqfIHWbPgfqcZTquxl9qVY4swiEETnraRWLKN/qCw/GE+TT+c5VZsHSeY0qtSxIZnqXYGkSJz2xjKkFQT2V+G/YxzEQ0jsHjYnke9iPXFxy/X+rqNaOvFmUzwxjZfOhWRtvlyI3P3xEprrpGyLT+c5rZrtq3MadqrWkE0dSlA0cckg/qZCxJYKewvw37O+CnxvzePM9VQRVpFkgy5PIZgdwZWbdgPYAA/XEbmuv8AVF6u9Y5rMsDjZzFAsbEfIMBuPtir277T0q1P9Kq+VJy80L2dz64bBXOz/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Trial of Prestige</div>
+                                                <div class="unlocked">3 Jan 2026</div>
+                                            </div>
+                                            <div class="description">Complete the Trial of Prestige</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -174,18 +184,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYECP/EACoQAAIBAwQBAwQCAwAAAAAAAAECAwQFEQAGEiExFCJREzJBYQcVUoGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEFAv/EABwRAAICAwEBAAAAAAAAAAAAAAECACERMUEDEv/aAAwDAQACEQMRAD8AG4UkachWcszkAcj86vdpfx5ft2xytSy09LQ07GP1cxYiR/8AFQO2I/P4Gpv+qPo2njlXm49gxgcicDJPjs+dPlwuN429ZbTYNtx0NveCBVlrJm9WVz0BHHH9zu3I/wCidUgDyVPTKDAgZvrZd62bcYqa6FZEmUtDUQuTG+PI77DD4Opscw6Zd/uGfcfnS/vQ7g3Ntyaluj0dXU23NwhrIGECzxDkkivG+CHUgjA8H8d6JIxlkPfZB702UjcS3ubDcaqOMRRsuIn5KrICDhsgEHyP1roAwXK72y17h261LV/WiR2hjC0jqwzhkb3LyUs6lWGCDjXOfueVg0bZ5HvB+dVm1d67g2xQVVFbGX0s+WCzRlvoufLp+/0es96AeTTAtYiPuGirrVtm63G/09GKyriakpKF8VTlpGLPI79AsTljxGFCAaGKukNKI2MnNcquW8nWquramormqjUVc07A85pWZmJPnz/zWeuuMlVS09K9MAYpOX1QvZyfB0M2ajC/Ivc//9k=" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Trial of Devotion</div>
-                                                <div class="unlocked">24 Jul 2025</div>
-                                            </div>
-                                            <div class="description">Complete the Trial of Devotion.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+74 others...</div>
+                                            <div class="description ellipsis">+75 others...</div>
                                         </div>
                                     </div>
                                 </div>
