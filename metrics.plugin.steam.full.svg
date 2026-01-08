@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="495" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="504" class="">
     <defs>
         <style/>
     </defs>
@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            1.07k hours played
+                            1.08k hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        176 hours played
+                                        179 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 5 Jan 2026
+                                        Last played on 8 Jan 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            77 / 171 achievements unlocked
+                                            79 / 171 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwUGAgQI/8QALBAAAgIABgAEBQUBAAAAAAAAAQIDBAAFBhESIQcTQXExUWGBkRQiIzJScv/EABYBAQEBAAAAAAAAAAAAAAAAAAACBf/EABoRAQADAQEBAAAAAAAAAAAAAAEAAhExEkH/2gAMAwEAAhEDEQA/ABuGOV7HGMyPI8nBEXcliT0APU74krtW7HGElhmVUkaDzODAeYo3ZCf9AdkYTPAnI4TqG/m7qJ56FQyVYwu+00nIBvcBT+cS1SotPSel7Ukd67Rt5RahsTUYjNLWs2dmeUKOyxHNCfTGnUOM0m7V8kDPItPxMUdpg0ghB4tsZCNwn/RHYGMP3rKquZAyvxYEkEEHsEYaczoCzpTU9xIb1ahVy2rHWmvRGKaazX3Ky8T2CBxTf1xX/GzKUp6oy7MEQI+ZV1knUDb+VSAx9yCN/bFWqfIHWbPgfqcZTquxl9qVY4swiEETnraRWLKN/qCw/GE+TT+c5VZsHSeY0qtSxIZnqXYGkSJz2xjKkFQT2V+G/YxzEQ0jsHjYnke9iPXFxy/X+rqNaOvFmUzwxjZfOhWRtvlyI3P3xEprrpGyLT+c5rZrtq3MadqrWkE0dSlA0cckg/qZCxJYKewvw37O+CnxvzePM9VQRVpFkgy5PIZgdwZWbdgPYAA/XEbmuv8AVF6u9Y5rMsDjZzFAsbEfIMBuPtir277T0q1P9Kq+VJy80L2dz64bBXOz/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcBAgUE/8QAKxAAAQIEBAQGAwAAAAAAAAAAAQIDAAQFERIhUWEGBzFBEyIycYHRM0Jy/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgUEBv/EACIRAAEDAgYDAAAAAAAAAAAAAAEABAUCwQMREiFBcSJDUf/aAAwDAQACEQMRAD8ARtapuJS35QWIuVtjvuPqB/EdTBwvJZtrGJWKZiCpiWT5uq0DvuPqHUPi66Wis88fAHYuFhYjrDR5bcE43Jeq1xq6SQqXlVjrotY00HyYpy74Iv4VWrTWWS5eWWOui1jTQfJhpMkl9BJucQic4c5eFCcPDagHDgbcC5SXX61e8dTLQZAW4LuH0pPbcxdqXU2fEUgqWc0i2Q3iShwkkpUSdor008lZpqZ0kt2535Nhcoy4ZrwmQmUnVWfGSHD++x3goZ/M3/QhShtwG4Qq/tBvwrXC+tqWn7pdSQEOqFgrY7xNeM/ZhjsJwc7sGrk9GxsV/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Trial of Prestige</div>
-                                                <div class="unlocked">3 Jan 2026</div>
+                                                <div>Operator: Mastery</div>
+                                                <div class="unlocked">8 Jan 2026</div>
                                             </div>
-                                            <div class="description">Complete the Trial of Prestige</div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQYHAwT/xAArEAACAQIFAgUEAwAAAAAAAAABAgMEEQAFEiEiMUEGExRRcSMyUpFhobH/xAAZAQACAwEAAAAAAAAAAAAAAAAAAwECBAX/xAAfEQABBQACAwEAAAAAAAAAAAABAAIDBBESIRMicVH/2gAMAwEAAhEDEQA/AMbpo5RUSN5khJkIHI4rPDtBR1ETvmFTI0/IrFrNwAL303GoHfuOmCIkCM5VLsXNvbqcWmSUE0uS1VSBCKSlhhaYqbOxkYja25Gwxhoxm1Px0D6uC6XDpUr4ky6hpw3oKuo9YSpMWs6VvuRbt2tucT1pBJGHkk+8A8j740fM8u9VkOYTxeWY6VVF3vrDG5XST2srA/IxBRxnzUPXmP8AcMvxGtNwJB+K7ZNP5i9IltJJC2wEp/Vzh2bNFy2noL6xNKpAVQSrIrcbj8tRNv3iZV3mqHWSFywdrMARfc4ey8M1dlNTPHoNBLd1mQ2kivqFiAeQN9u98JpOEM+uOdIYA1+ld58yavo65GJE0RWOVAukBCf7OoWN+l/5wDUBYmRgCOa9fnCz6IKiuqIHkmNTqA+ky6QzBmLkjdtgABsNzgKvmkmqIlEcgVXBPE++Itv804cDvSHe79C//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAD/xAArEAABAwMDAgUEAwAAAAAAAAABAgMEBQYRAAchEzESIkFRYQgUMnEWI9H/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQIG/8QAJhEAAQQBAgQHAAAAAAAAAAAAAQACAxEhQWESMZGhFCIyUXGB4f/aAAwDAQACEQMRAD8AHbSbat3pEfkyJ62khRSlKD20n7nWnVbFrCmJXVVDWf6X/RY/3S1Zm4FdtUPGlSVNgnKkn8f3++NVqoX25fe0FWXckRr7mPgtPqcCCV54KU9z7ccfOnGVzronwOt+bP1XtWh62u+m+g/yKtPSpKS5FjAeIk8Z9tN/1CCiMRorMItiUFgFLZHb1zqebMXFJp+195sQEPJkNgOIkNAYQCD3JIx+OpqKtJqM5syn1ukK7qOdVC6Hje5tZBu9dQAOln5RmiWbUItNW5Ipiw+uWY+ZQy2yhCCpxw47gckaHOoerig5WKmuNTEK8aGW0AgIUeSEjypOACRxrbdQo0JVNfR9sAhaT6cnIGRj5x21kjdFmmUWtux4lAbLYOEmY+6Ur9+mPKgY7YBz8auCLbyTNfM2URzVxEWK7+r9QV+rxRBi2xbMY9Ga6jrS1BKnXD2wgjlKSCPL76vd0bUWtb23yJToDExtsL6qleYqxqH2hddCtirtzZNtqFRbRltJc8iVEkhQz6Y49e2he5G5NYveelcpxbMNvhuOhR8KR8+51klJ4Z0nlAI3vvvtpzX/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Operator: Putting Together a Team</div>
-                                                <div class="unlocked">28 Dec 2025</div>
+                                                <div>Operator: That All You Got?</div>
+                                                <div class="unlocked">8 Jan 2026</div>
                                             </div>
-                                            <div class="description">As Operator recruit 5 different drones.</div>
+                                            <div class="description">As Operator kill 4 different types of monsters with a single ricochet.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+75 others...</div>
+                                            <div class="description ellipsis">+77 others...</div>
                                         </div>
                                     </div>
                                 </div>
