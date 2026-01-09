@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="504" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="399" class="">
     <defs>
         <style/>
     </defs>
@@ -25,7 +25,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m10.41.24 4.711 2.774c.544.316.878.897.879 1.526v5.01a1.77 1.77 0 0 1-.88 1.53l-7.753 4.521-.002.001a1.769 1.769 0 0 1-1.774 0H5.59L.873 12.85A1.761 1.761 0 0 1 0 11.327V6.292c0-.304.078-.598.22-.855l.004-.005.01-.019c.15-.262.369-.486.64-.643L8.641.239a1.752 1.752 0 0 1 1.765 0l.002.001ZM9.397 1.534l-7.17 4.182 4.116 2.388a.27.27 0 0 0 .269 0l7.152-4.148-4.115-2.422a.252.252 0 0 0-.252 0Zm-7.768 10.02 4.1 2.393V9.474a1.807 1.807 0 0 1-.138-.072L1.5 7.029v4.298c0 .095.05.181.129.227Zm8.6.642 1.521-.887v-4.45l-1.521.882ZM7.365 9.402h.001c-.044.026-.09.049-.136.071v4.472l1.5-.875V8.61Zm5.885 1.032 1.115-.65h.002a.267.267 0 0 0 .133-.232V5.264l-1.25.725Z"/>
                             </svg>
-                            33 games
+                            35 games
                         </div>
                     </section>
                     <section>
@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            1.08k hours played
+                            1.09k hours played
                         </div>
                     </section>
                 </div>
@@ -127,15 +127,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,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" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAABgACBAcBAwgF/8QALBAAAQMDAwMDAwUBAAAAAAAAAQIDBAAFEQYHIRIiMQgTQVFhcRQVI4GRM//EABoBAAIDAQEAAAAAAAAAAAAAAAECAwQFBgD/xAAfEQACAgICAwEAAAAAAAAAAAAAAQIRAxIhUQQTMSL/2gAMAwEAAhEDEQA/AOVyc+KxTkoJOE+TUx+3OsRvecGAaFjaUQKVI0s0RWPzg0lDkVgecfNSoEZct4MoGVnxRirkCTpbEYqyayfI5qf+0SiVfxK4OKiOxnml4cQRTvG4ysCyKbtHqLtzkOQlUuO4yhHKkqPOKunZnbm1aotD+qLw6pi1xSQUuKyD0nmqfelPTInvyngPePtlSvjFXN6eNxLHaLRN0lql5DFskZ6XlcJyTzVaD7LmVUuAvXqnZtlxbCo7Kyjt6gRyR/VBu6+ottZ2kpLGmGG0XFScIIxmi53bbZFxxbyr6SlSishMpQ8/Tit0P076PvM2LOslwXIshV3oS6Ssj81KVL5ORcDIx8DmntKWhWUKKT9QcV1redqNmbNOVDul3diyUclDkpQOP8qPG2y2SlvIjxL8p2Q6elCUylcn/KKevIX8spB0fvml0S2ApFwi/wDQpOApI4HH1oPKup5Ku721dqgo5OfmrT3F0PP2t1GhiO8H7TPwGnMZBB5xQTq2KzbnsRU9KH0gnq5wT5xWmob4djPi/VP1d/CEuZJ/QNtrbb7VEntHFGuno8W4bYXRtLTBmsBThJQOognjBqvW3kKLgd6kpcGEqJ4Bo5mXm33nQqWjIbh3CJn+NvtLw8Acea5/JF2qOjx5E1yVwpbiSlKXFA5x058V2P6RLBdrfpqXcrkt1MeTlDTTis4wfIFcfT4EqGU/q2VMqWApPV8g1Y+xKZ9+3Cs1tfuk9EBDoK20SFJSRjxjNW0+DOmv0F26OkH9a+oCRbW3BHj+22Xn1ntbTzzRdB9M8W2yGp0y+oEVg+4taCRlP2NVh6iC7C3fmtMTHYyUsNo60OEEgZxkjzRzsRuk2plrReppCpkSaottSCvuRn6k/FGiNsjeorV9p1FdtPadsT4mJtyk9T6TkHtxj81V+sen9aI7jRIQ2k+fFFG8Wi5m29zfS0gPWy4KKo8sDnJ56QfORVdMw3n14XIKn1jkKOSkfBNa3iZVFUUsuO3fQP8AuKCOg+KclxIQQRz9a0/el96yXGzRU2j0XLpJegiK6oLQPCl8kD802zXOZZ5qJlteU0+2chSTioPx96zwR2gj60EgSZOvV1mXmYqXcHFOvK8rUck/3UNt5bTqXWFKbcQchSTgg0wjjg5FNprFoJbprS+XSM1HucoyWmxhCXO7p/Ga8FUhxThX1qCj8g1q4+QTWOCeOKZTaPao/9k=" alt="" />
                             <div class="about">
-                                <div class="name">Risk of Rain 2</div>
+                                <div class="name">StarRupture</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Indie
+                                        Action, Adventure, Indie, Simulation, Early Access
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        179 hours played
+                                        5 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 8 Jan 2026
+                                        Last played on 9 Jan 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,7 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            79 / 171 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcBAgUE/8QAKxAAAQIEBAQGAwAAAAAAAAAAAQIDAAQFERIhUWEGBzFBEyIycYHRM0Jy/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgUEBv/EACIRAAEDAgYDAAAAAAAAAAAAAAEABAUCwQMREiFBcSJDUf/aAAwDAQACEQMRAD8ARtapuJS35QWIuVtjvuPqB/EdTBwvJZtrGJWKZiCpiWT5uq0DvuPqHUPi66Wis88fAHYuFhYjrDR5bcE43Jeq1xq6SQqXlVjrotY00HyYpy74Iv4VWrTWWS5eWWOui1jTQfJhpMkl9BJucQic4c5eFCcPDagHDgbcC5SXX61e8dTLQZAW4LuH0pPbcxdqXU2fEUgqWc0i2Q3iShwkkpUSdor008lZpqZ0kt2535Nhcoy4ZrwmQmUnVWfGSHD++x3goZ/M3/QhShtwG4Qq/tBvwrXC+tqWn7pdSQEOqFgrY7xNeM/ZhjsJwc7sGrk9GxsV/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Operator: Mastery</div>
-                                                <div class="unlocked">8 Jan 2026</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAD/xAArEAABAwMDAgUEAwAAAAAAAAABAgMEBQYRAAchEzESIkFRYQgUMnEWI9H/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQIG/8QAJhEAAQQBAgQHAAAAAAAAAAAAAQACAxEhQWESMZGhFCIyUXGB4f/aAAwDAQACEQMRAD8AHbSbat3pEfkyJ62khRSlKD20n7nWnVbFrCmJXVVDWf6X/RY/3S1Zm4FdtUPGlSVNgnKkn8f3++NVqoX25fe0FWXckRr7mPgtPqcCCV54KU9z7ccfOnGVzronwOt+bP1XtWh62u+m+g/yKtPSpKS5FjAeIk8Z9tN/1CCiMRorMItiUFgFLZHb1zqebMXFJp+195sQEPJkNgOIkNAYQCD3JIx+OpqKtJqM5syn1ukK7qOdVC6Hje5tZBu9dQAOln5RmiWbUItNW5Ipiw+uWY+ZQy2yhCCpxw47gckaHOoerig5WKmuNTEK8aGW0AgIUeSEjypOACRxrbdQo0JVNfR9sAhaT6cnIGRj5x21kjdFmmUWtux4lAbLYOEmY+6Ur9+mPKgY7YBz8auCLbyTNfM2URzVxEWK7+r9QV+rxRBi2xbMY9Ga6jrS1BKnXD2wgjlKSCPL76vd0bUWtb23yJToDExtsL6qleYqxqH2hddCtirtzZNtqFRbRltJc8iVEkhQz6Y49e2he5G5NYveelcpxbMNvhuOhR8KR8+51klJ4Z0nlAI3vvvtpzX/2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Operator: That All You Got?</div>
-                                                <div class="unlocked">8 Jan 2026</div>
-                                            </div>
-                                            <div class="description">As Operator kill 4 different types of monsters with a single ricochet.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+77 others...</div>
+                                            0 / 0 achievements unlocked
                                         </div>
                                     </div>
                                 </div>
