@@ -63,7 +63,7 @@
 
 <a href="https://github.com/siddharth2016/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I didn’t work hard to make Ruby perfect for everyone, because you feel differently from me.  No language can be perfect for everyone.  I tried to make Ruby perfect for me, but maybe it’s not perfect for you.  The perfect language for Guido van Rossum is probably Python.”— Yukihiro Matsumoto, aka “Matz”, creator of Ruby   ❞</i>
+<i>❝In 2009, computer scientists created a system that composes a realistic picture from a simple freehand sketch, pulling photos from the internet: Sketch2Photo.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
