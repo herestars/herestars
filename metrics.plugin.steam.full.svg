@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            1.19k hours played
+                            1.20k hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        93 hours played
+                                        101 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 29 Jan 2026
+                                        Last played on 30 Jan 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            49 / 55 achievements unlocked
+                                            51 / 55 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQACAwQGB//EACsQAAICAQMCBQMFAQAAAAAAAAECAwQRAAUhBhITIjFRYRQyQUJScZKhov/EABgBAAMBAQAAAAAAAAAAAAAAAAEEBQID/8QAJxEAAQMDAwMEAwAAAAAAAAAAAQIDEQAEIRIxQTJRcRMUIiNhofD/2gAMAwEAAhEDEQA/AOtb1us1KwVU2JGeZlVVkCIiqFJJOD76FSdVlWwgtsM4B8cDP/Ol1q7BlRScPYk4H54TRDo7bK8aRfVMUnnQuzoPMB5u1FOPKO2N2JHJ4GfxqawywGyVnU4qSBJwAYnBHNUW2n23VXL5+kQEpAGTGcxMb1XsdQtWppLMbQlk4ihWYFnP9fT51e2bdJbs0YMkyusiLIjSBx5g3GcD203q+jXWoluA97tWM0FiT7+wdpZCeM+VgwzyMMNDOio3Vi7jCtYj7c/w+lU2gtmSt92VqI0gY5E/rzXJpN5c3K3gAlhI2wZJHciZ5qfqmavWk8WZfEmE8ixRD1diE/z30U2ffL9ffb1STYpmpM6ivegsRSK8SjC4TIbOAx7VycseNQ7ztcl2dyI5kdZHKSJGG4YL6cj20Jh6UKTrI/1bdpyMQKDn3z3aFqhm39W4USVnAEHYfnbJzWkoubi5KHlBLKQNPPEnHkxmNq1u/wB2rbFcwSJKsT9zsfLHGpBVxIx+0FSfnI9DrO9OztPbYjCVlsIII/1BMPhm+T66df2azenRrEl54YuYYXj7lVv3HL8nU+ybVNRsgkWJC8quzvGFAADfJ99BRbukJedTpWnpGTuRMmI2pVtF57qOlpM8j5YIGAT3/jX/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAwQFAAYH/8QALBAAAgIABQMCBAcAAAAAAAAAAQIDBAAFERIhBhNRMWEiI0FSMkJykqGiwv/EABgBAAIDAAAAAAAAAAAAAAAAAAMFAQIE/8QAJhEAAQQBAwQBBQAAAAAAAAAAAQIDBBEhADFBEhNRoQUUI2GBkf/aAAwDAQACEQMRAD8A9azrNZqVgqpsSM8zKqrIERFUKSSdD5xKk6qYPogtuNdB84c/1xutXYOqKTo1iTgfXhML5TlKw1TfvMEUnbGu0sXbT8KqOT7n098JSWWGLouOrJ6UgnGSOCPemrDDqXVypS+lhNUKGcC81e+qFjqF61NZZzbE0nEUKzAs5/b6e+HsmzSW7NGDJMrrIiyI0gcfEG410HjHNX8usQ15MyaU2JTxIzRmMwproNqnX4deNwJ54OhxQ6KjdSXcEK1iPbr+l8DaiLjR+5MX9xRFJB2yL9edYIbkye8uSEhDCcAYN+M583g0NH6pnr1pO9MvdmE8ixRD1diqfx5wmsrTx0pLd+mksKHchm2bWLuWUgj0IMfp9o8YtZzlcl2dyI5kdZHKSJGG4YL6cjxiVF0qVlVpDbdRzt7IH+sXghmGtyYq1OZATRx6r86lyI/8hJ7clfSwkCq3OxP7vGeNEgjirZeJLN6s9KKORHYzb2ZWQjTTTklgh08gH6YJ0xYlsTBnURQiePtQ/mVdH5b3ONayCWxOrOLXZiHyoewNqn7j8XJw3kmVTUbIJFiQvKrs7xhQAA3ufOAqUZx+ql4cFBKQDyRZJ2utCZYktyO23aWE2ckWo1XHHgf3NAf/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Encyclopedia Collector: Ghostie</div>
-                                                <div class="unlocked">28 Jan 2026</div>
+                                                <div>Encyclopedia Collector: Slime</div>
+                                                <div class="unlocked">30 Jan 2026</div>
                                             </div>
-                                            <div class="description">Unlock all ghostie colors in the encyclopedia and raise them to the highest quality</div>
+                                            <div class="description">Unlock all slime colors in the encyclopedia and raise them to the highest quality</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgQFAwf/xAArEAACAQMDAwIFBQAAAAAAAAABAgMEBREAEiEGEzFRYRQiIzKBQVKSosL/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAJBEAAgIBBQABBQEAAAAAAAAAAQMCESEABBIxQbETIlFhcaH/2gAMAwEAAhEDEQA/APWb3dZaKoKqaiRnmZQqyBERVCkknB9dZb9VsHxGKtxnA+sOf66vvMgW6RI6qytJU4VlDDcIgVJB4IB550VHUNKbrHLHZoXRIx3HO7eBj7jGAFOMjOQM/qB41kwWpaCyZ5SldWTQzXmf3rT2qNxPdyky/pACogRzgenPd6R1HUL01Gss5qxNJxFCswLOf4+PfV1muktbNGDJMrrIiyI0gcfMG4zgemjVwvFrqJKZKmZ/jTkfEU0CShI2VccjZkbt+MAkDWv0xRS0VSQ7xyRvNC8UsZysiFWIcH0IOp1bcJTKb28pkigPM38X3pEY7127myQEEgYFD7vOznBOra+SlivdGaoqWkrGhRCM7t4RTn2wedBbjduq1rlitPSdVBDSSv2JJqNmlwQVJdxw+eTjweMk+S7vNrkrZ3IjmR1kcpIkYbhgvjkY8ay4ul3WVWkasdRzt7IH+tEkLStk5SJkTiNH56H51QgvZuSGkBYAET2es4/pPdaI0dou0luQT2SrhNOnaLildWmGS298DJbLEcemnfTlPPQ09uoaqQGan7fciHiFmaV9n4DKPwdcqqxTVFQrsasQxD6UXZG1T+4/NydVWS0zUNSCRUSb5VdneMKAAG9z66WnixJY0cZ2KGT6PQAOtCzc7l7gvgIrgSbsXLB8s1k3k/7r/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAQQFAwf/xAAsEAACAQMCBQMCBwAAAAAAAAABAgMEBREAIQYSEyJRMUFhI0IUUnKSoaLC/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMF/8QAJxEAAQMDAgQHAAAAAAAAAAAAAQIDEQQhMQBBEiJRYRMyUnGBkcH/2gAMAwEAAhEDEQA/AOtXq6zUVQVU1EjPMyqqyBERVCkknB86kycVlX5UFWwJwPrqM/10eNXYOqKTh6iTYe+yanmK4QR2+noLlTW6YwPWTM1MJHkHOQgyRlh27qPY531ltN06GSpxXEtUkCTYTGxG+tNhioD5feVDNgBAE8sm8E5nVip4hemo1lnNWJpNooVmBZz+30+dPWa6S1s0YMkyusiLIjSBx3Bts4HjUG826pNVPcqaGWVJlaQOQB0FGeaMDP2kEEj2wffTPBUbqS7AhWqI+XP6X0ZukVTU/iVTkuKI4QD3H510OlXWV1Q4/wAIQyiRECTtnPexjW/FU0FM5llXqTdeRYYh6uxVP4862jrEeVqxaSSsZ2Uv+HiM0lKxTBQqBnl7SAw2xgHf1YvNrkrZ3IjmR1kcpIkYbZgvpuPGpUPCzJKGc1jKN+UQgf61NphltDry1ErOEgHb3EddIbTVPVcOrCWUgRvMwTgzM220/KIIpRcaqkkoI4G5pZ54yjy4Bwig9zZ5sHbGM6X4XnlnlUuoihE0Qih+5V5X3b5OjVWCWpqFdxVdGIfSi6AIU/mPdudN2S1TUNSCRUSF5VdneMKAAG+T51FllLyA8/ZafKm5yRJJiMfWjAVa6v0spnccxggWBPWQPnMAf//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Encyclopedia Collector: Red Panda</div>
-                                                <div class="unlocked">26 Jan 2026</div>
+                                                <div>Encyclopedia Collector: Chicken</div>
+                                                <div class="unlocked">30 Jan 2026</div>
                                             </div>
-                                            <div class="description">Unlock all red panda colors in the encyclopedia and raise them to the highest quality</div>
+                                            <div class="description">Unlock all chicken colors in the encyclopedia and raise them to the highest quality</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+47 others...</div>
+                                            <div class="description ellipsis">+49 others...</div>
                                         </div>
                                     </div>
                                 </div>
