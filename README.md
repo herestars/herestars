@@ -189,11 +189,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C605%20hrs%2018%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 70.3 kB Used in GitHub's Storage 
+> 📦 70.4 kB Used in GitHub's Storage 
  > 
 > 🏆 3 Contributions in the Year 2026
  > 
@@ -209,15 +209,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   10 hrs 45 mins      ███████████████████████░░   93.89 % 
-TypeScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Vue.js                   10 hrs 57 mins      ████████████████████████░   96.35 % 
+TypeScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Trae                     11 hrs 27 mins      █████████████████████████   100.00 % 
+Trae                     11 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -233,6 +234,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 08/02/2026 19:02:06 UTC
+ Last Updated on 10/02/2026 19:38:20 UTC
 <!--END_SECTION:waka-->
 
