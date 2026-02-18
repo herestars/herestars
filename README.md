@@ -209,16 +209,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   3 hrs 25 mins       █████████████████████████   98.46 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Trae                     3 hrs 29 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 29 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -234,6 +231,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 17/02/2026 19:28:06 UTC
+ Last Updated on 18/02/2026 19:27:53 UTC
 <!--END_SECTION:waka-->
 
