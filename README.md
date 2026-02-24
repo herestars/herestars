@@ -189,7 +189,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C617%20hrs%201%20min-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -209,13 +209,14 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   1 hr 30 mins        █████████████████████████   98.42 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Trae                     1 hr 32 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -231,6 +232,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 23/02/2026 19:38:10 UTC
+ Last Updated on 24/02/2026 19:29:49 UTC
 <!--END_SECTION:waka-->
 
