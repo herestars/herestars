@@ -187,7 +187,7 @@
 <h1 align="center"> <a href="https://herestars.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&pause=1000&center=true&width=435&lines=%E5%A5%87%E8%BF%B9%E5%8F%AA%E6%98%AF%E4%B8%80%E6%97%B6%EF%BC%8C%E5%91%BD%E8%BF%90%E6%80%BB%E6%98%AF%E6%BC%AB%E9%95%BF%E3%80%82" alt="Typing SVG" /></a> </h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C751%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C754%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -209,8 +209,7 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      13 hrs 29 mins      █████████████████████░░░░   82.32 % 
-Vue.js                   2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Vue                      16 hrs 12 mins      █████████████████████████   98.95 % 
 Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
@@ -234,6 +233,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 24/04/2026 19:29:39 UTC
+ Last Updated on 25/04/2026 19:26:01 UTC
 <!--END_SECTION:waka-->
 
