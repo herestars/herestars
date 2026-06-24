@@ -187,13 +187,13 @@
 <h1 align="center"> <a href="https://herestars.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&pause=1000&center=true&width=435&lines=%E5%A5%87%E8%BF%B9%E5%8F%AA%E6%98%AF%E4%B8%80%E6%97%B6%EF%BC%8C%E5%91%BD%E8%BF%90%E6%80%BB%E6%98%AF%E6%BC%AB%E9%95%BF%E3%80%82" alt="Typing SVG" /></a> </h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C851%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C852%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 70.8 kB Used in GitHub's Storage 
+> 📦 70.9 kB Used in GitHub's Storage 
  > 
 > 🏆 3 Contributions in the Year 2026
  > 
@@ -209,16 +209,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               5 hrs 5 mins        ████████████████░░░░░░░░░   65.50 % 
-Vue                      2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.53 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+TypeScript               4 hrs 18 mins       ██████████████████████░░░   89.45 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Vue                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Trae                     7 hrs 39 mins       █████████████████████████   100.00 % 
+Trae                     4 hrs 48 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -234,6 +235,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 23/06/2026 20:33:17 UTC
+ Last Updated on 24/06/2026 20:17:13 UTC
 <!--END_SECTION:waka-->
 
