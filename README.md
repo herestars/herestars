@@ -187,13 +187,13 @@
 <h1 align="center"> <a href="https://herestars.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&pause=1000&center=true&width=435&lines=%E5%A5%87%E8%BF%B9%E5%8F%AA%E6%98%AF%E4%B8%80%E6%97%B6%EF%BC%8C%E5%91%BD%E8%BF%90%E6%80%BB%E6%98%AF%E6%BC%AB%E9%95%BF%E3%80%82" alt="Typing SVG" /></a> </h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C858%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C863%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 71.0 kB Used in GitHub's Storage 
+> 📦 71.1 kB Used in GitHub's Storage 
  > 
 > 🏆 3 Contributions in the Year 2026
  > 
@@ -209,17 +209,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      6 hrs 11 mins       █████████████░░░░░░░░░░░░   51.49 % 
-TypeScript               2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-Python                   1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Vue                      7 hrs 24 mins       ████████████████░░░░░░░░░   62.29 % 
+TypeScript               1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Python                   1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 🔥 Editors: 
-Trae                     12 hrs 1 min        █████████████████████████   100.00 % 
+Trae                     11 hrs 53 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  11 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -235,6 +235,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 29/06/2026 20:24:38 UTC
+ Last Updated on 30/06/2026 20:29:22 UTC
 <!--END_SECTION:waka-->
 
