@@ -187,7 +187,7 @@
 <h1 align="center"> <a href="https://herestars.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&pause=1000&center=true&width=435&lines=%E5%A5%87%E8%BF%B9%E5%8F%AA%E6%98%AF%E4%B8%80%E6%97%B6%EF%BC%8C%E5%91%BD%E8%BF%90%E6%80%BB%E6%98%AF%E6%BC%AB%E9%95%BF%E3%80%82" alt="Typing SVG" /></a> </h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C896%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C899%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -203,6 +203,25 @@
  > 
 > 🔑 4 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Vue                      10 hrs 55 mins      ███████████████░░░░░░░░░░   61.83 % 
+TypeScript               4 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+JSON                     2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+
+🔥 Editors: 
+Trae                     17 hrs 39 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  17 hrs 39 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -216,6 +235,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 14/07/2026 19:51:11 UTC
+ Last Updated on 15/07/2026 19:45:01 UTC
 <!--END_SECTION:waka-->
 
