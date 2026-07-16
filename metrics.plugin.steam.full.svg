@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="399" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="488" class="">
     <defs>
         <style/>
     </defs>
@@ -127,15 +127,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,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" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABggEBwIDBQEA/8QALhAAAQMDAgQFBAIDAAAAAAAAAQIDBAAFEQYhEhMxQQcUIkJRYXGBkTJiFXLB/8QAGQEBAQEBAQEAAAAAAAAAAAAABQQBAgMG/8QAJxEAAgIBAwIGAwEAAAAAAAAAAQIAAxEEBSESMSJBUWGBkVJxocH/2gAMAwEAAhEDEQA/AFYO42G9ZNNLdJS2kqPwKJ7JYGLpp6XIbCjOZBUEg9RRnoC2IiacXKmxkl1KlbFO+Kmu1S1g47g4kGo3BaVYgZIOMQEtekbrcMHklps+9Q2ortnhy2lKVTngof1OKixdeTf84loNoETjKOAJ3qFry4T4t2LLclaWVoDgAJGM14MdQ7dOQuZK51trhCQuRn1hO/aI9qbPl7fJlAdkLFDz72nJrpbnsSIjo68a+lDEDUFyhOcTMlZP9ySKI2bzbdRoTHvTKGJHaQkBI/NYaXr5bn3Hf6mjSWVHLEn3BOfqRZekg+2p+wym5iB0aR/KhR1C2VrQ4koUDhQPzXansXDTFzRynVpAPE2tJ9Kh2rZd7rFvEPmPs8uekbrTslX4qmtnGMnI/surNi456l9fP5hX4OIK1zMjKeHv96tNEZIQUBKQk9gNqrbwSUlXnWz/AC4f+1bKGhuO9C69iLjPntyUnUt8QOZ0FaUXbzwQsvJPHwcW2ftVSa6dkPaikGa2ppSfSlJHtHSmRQzsE9AfdUK6aet13SRMjoUQOoHq/dZp9ea36rOZ7aTWNU/VZlv8isfvNfD4O1X1N8JrM9kxi62o9yvYUI3vwlucTK4L7clPZKRvSte5ad+M4/cZr11L8ZxAqTenJNqRDkp5hbPpWeuK5O57bCp11tU61Olu4RlsrOw4h1qB+6sQLjKdjKkCgeHzh74O3FETUnJcUB5oBsD60wKWcHAGAfmlZ0xbLlcbi0LO0tUhCs8Y9v1porKsCIzGkupXMQ2nmYPQ0FuygOGHc+UF3KoGwODJSWqzS1vUhLeK2JboQtIAki8qs0tGpQbrIN1wWnYWcW62ODdo/KnRm1pPv4Rkfmln8RLE1p3Uz8GOrLWAsZ360017uEezWt+dMcShttOcGlK1ZeHL7fZE13fiUQn/AFztTeymwsxz4Ypt4cE+k02u7zLWHfIu8rjGCR1rv6AXe7hqmOYEt3mcWXHHFEpSPk0IDr8Ct8SY/E4/LPLbLg4VFBwcU9ZV1KQAMmIugIOO8aFev9PxJ6bfJuDIeSAlx3Pp4u9FsCVFnspdgvJeYPdJ60la1KUoqUSonck7mrT8INUGDbrvAfk8tamcsKWcgKzQWr2ha6+qs8iH26IKuVPMY0NE77fbNcm+6htVhjly4y2m8e0nelkm+IOouN9jz3oCinIG+M/NC0ydKmrK5Mh10nc8aya5q2Nic2NxNTQ/kYb+J2vntWSfLxyWrcySUJzus/X5FAH3r0kHOd9tsV5T9NS0oEQcRBECDpWf/9k=" alt="" />
                             <div class="about">
-                                <div class="name">Cluckmech Oasis</div>
+                                <div class="name">Grounded</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Casual, Indie, Strategy
+                                        Action, Adventure
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        8 hours played
+                                        3 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 5 Jul 2026
+                                        Last played on 16 Jul 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,7 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            0 / 121 achievements unlocked
+                                            6 / 45 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQH/xAAtEAACAgEDAAgFBQAAAAAAAAABAgMEBQAREgYTISIxQVGBFVJhccEWMmOisf/EABcBAAMBAAAAAAAAAAAAAAAAAAEEBQL/xAAlEQACAAQFBAMAAAAAAAAAAAABAwACBBEFITFBURKRwfAiYYH/2gAMAwEAAhEDEQA/AJR0cwfxHexa5rUQ8QqnZpW9AfIep1q5aW/iYgcfFVp1/wCGMFvdzuTouhegoZStjZO6kUUUY+rNszH3J0z9OMbNlMjcjgSCrE5BMjLwTfiN+Kjcn21Ha9gaJ5x8MtfuLypKekWC0gEi9zE3/UFibuZOGveiPiJYwG9mGxB0PlKEK10vY53elI3Eq/74X+VvwfPTK/Qt6dTrXkjmaTfjNLvHDGnE7sR2lj6DWNilrm3Yx1ec2ILFZlaTiQrSKCwKg9uw2A7frpyVyprzJ214t4hWZtNWghJuRv75/IKEIvdIcNcEfXRW+rJXkF3dBsy7kjt3AOn+ZcnPvNNSlaVidwZY+z+22pRjMgkMT1biNLTkYNsp2aNh4Op8jo1qtyc8sdmRZQ+AewY3H3Un86w6lW2waSLacWhWop14iJes5jb3nvlFFHxUlYWx0hrkd7lNGQCR5Dlqc4+E0slk7LqEjpiRQAwYB23VV3HYfHy9NdFW5D3sjmBXjHiEsGRz9gD+dAZG9HJDHUpRmGlEdwpO7O3zMfX/ADRTTLXeVRvfXiClC8P6jIcyNBfvnH//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Fine Dining</div>
+                                                <div class="unlocked">16 Jul 2026</div>
+                                            </div>
+                                            <div class="description">Cook a bug on the Roasting Spit</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAABAUHAwYI/8QALBAAAgECAwcEAQUAAAAAAAAAAQIDBBEABQYHEhMhMUFRImFxgQgUI0KSsf/EABcBAQEBAQAAAAAAAAAAAAAAAAMCAAb/xAAkEQABAwQBAwUAAAAAAAAAAAABAAQRAgMhURIxccETIkFhof/aAAwDAQACEQMRAD8AitFQz1jqsKEgm17d/A8n2GKnoPZiK6YyZlUxw8M+uIMDP/X+H3c/GCvx7iieqrZJI0d44gUZhcrdje3jGurKau09qeSup2ZH4pmilXo6k3sf8IwDpwWwBAnZ0uffvblJiPbMGPKG1vsmqKfiVWTlquHqVA/dX5HR/qxxJayinpHZZkIANr27+D4PsceidK6krs+1hJJvMlAIX3IQfSoFrE+5OOQ/ICKJKqhkjjRZJYiXZRYtZha/nCWb4vgkff4kZu6iQKc0zHjCy2EmCRsypaiQLx4NwLv7rN6jex63w4z/ACSgyqreCpz2YIwvwRC0klj0vz3fvEPpaqallWSCRkYG4IOKLp7aFDO8EGqaKLMET0pM6gyKPnuPY4hw3F8AjqNrPGdfI1gTmZ13CfaezdqHLsroaRf0VfPOGnqZWCrNGp5brHlbsR5+cC7eqmGeooBDLHIViN9xgbXYEdMLdc7Ro8zpjl2WUcKUS8hxI1Y/XZfrnibzzyTteRr+3YYqxZ9EZMp7LfmRWBHTtjQ+F//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Hedge Lab</div>
+                                                <div class="unlocked">6 Jun 2026</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+4 others...</div>
                                         </div>
                                     </div>
                                 </div>
