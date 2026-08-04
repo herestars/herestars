@@ -211,15 +211,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      10 hrs 58 mins      ███████████████████░░░░░░   75.22 % 
-TypeScript               3 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Vue                      8 hrs 21 mins       █████████████░░░░░░░░░░░░   51.26 % 
+TypeScript               7 hrs 56 mins       ████████████░░░░░░░░░░░░░   48.69 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Trae                     14 hrs 35 mins      █████████████████████████   100.00 % 
+Trae                     16 hrs 19 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -241,6 +241,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 19:43:19 UTC
+ Last Updated on 04/08/2026 20:08:46 UTC
 <!--END_SECTION:waka-->
 
