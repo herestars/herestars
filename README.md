@@ -187,9 +187,9 @@
 <h1 align="center"> <a href="https://herestars.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&pause=1000&center=true&width=435&lines=%E5%A5%87%E8%BF%B9%E5%8F%AA%E6%98%AF%E4%B8%80%E6%97%B6%EF%BC%8C%E5%91%BD%E8%BF%90%E6%80%BB%E6%98%AF%E6%BC%AB%E9%95%BF%E3%80%82" alt="Typing SVG" /></a> </h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C981%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C985%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -211,22 +211,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      9 hrs 53 mins       ███████████████████░░░░░░   75.98 % 
-TypeScript               2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Vue                      11 hrs 40 mins      █████████████████████░░░░   83.34 % 
+TypeScript               1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Trae                     13 hrs 1 min        █████████████████████████   100.00 % 
+Trae                     13 hrs 28 mins      ████████████████████████░   96.19 % 
+Codex Vscode             32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 💻 Operating System: 
-Windows                  13 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  14 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 41 mins (4.91%)
+
+✍️ 0 lines written by AI, 1,663 lines written by hand (0.0% AI-written)
+
+🔤 27,833 Input Tokens, 901 Output Tokens
+
+💵 $0.13 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 4 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 226 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -242,6 +260,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 19:10:20 UTC
+ Last Updated on 21/08/2026 19:06:14 UTC
 <!--END_SECTION:waka-->
 
