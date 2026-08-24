@@ -211,24 +211,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      13 hrs 25 mins      ██████████████████████░░░   89.75 % 
-TypeScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Vue                      14 hrs 33 mins      ███████████████████████░░   91.43 % 
+TypeScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 🔥 Editors: 
-Trae                     14 hrs 16 mins      ████████████████████████░   95.45 % 
-Codex Vscode             40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Trae                     15 hrs 14 mins      ████████████████████████░   95.72 % 
+Codex Vscode             40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 💻 Operating System: 
-Windows                  14 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 mins (6.12%)
+⏱ AI Coding Time: 54 mins (5.75%)
 
-✍️ 0 lines written by AI, 278 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 114 lines written by hand (0.0% AI-written)
 
 🔤 37,169 Input Tokens, 1,547 Output Tokens
 
@@ -258,6 +258,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 18:57:03 UTC
+ Last Updated on 24/08/2026 19:09:38 UTC
 <!--END_SECTION:waka-->
 
