@@ -187,11 +187,11 @@
 <h1 align="center"> <a href="https://herestars.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&pause=1000&center=true&width=435&lines=%E5%A5%87%E8%BF%B9%E5%8F%AA%E6%98%AF%E4%B8%80%E6%97%B6%EF%BC%8C%E5%91%BD%E8%BF%90%E6%80%BB%E6%98%AF%E6%BC%AB%E9%95%BF%E3%80%82" alt="Typing SVG" /></a> </h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C992%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C993%20hrs%2059%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2013%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -211,24 +211,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      14 hrs 33 mins      ███████████████████████░░   91.43 % 
-TypeScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Vue                      12 hrs 20 mins      ████████████████████████░   94.72 % 
+Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Trae                     15 hrs 14 mins      ████████████████████████░   95.72 % 
-Codex Vscode             40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Trae                     12 hrs 20 mins      ████████████████████████░   94.77 % 
+Codex Vscode             40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 💻 Operating System: 
-Windows                  15 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 mins (5.75%)
+⏱ AI Coding Time: 54 mins (7.03%)
 
-✍️ 0 lines written by AI, 114 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 30 lines written by hand (0.0% AI-written)
 
 🔤 37,169 Input Tokens, 1,547 Output Tokens
 
@@ -258,6 +258,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 19:08:13 UTC
+ Last Updated on 26/08/2026 20:36:27 UTC
 <!--END_SECTION:waka-->
 
