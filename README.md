@@ -187,7 +187,7 @@
 <h1 align="center"> <a href="https://herestars.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&pause=1000&center=true&width=435&lines=%E5%A5%87%E8%BF%B9%E5%8F%AA%E6%98%AF%E4%B8%80%E6%97%B6%EF%BC%8C%E5%91%BD%E8%BF%90%E6%80%BB%E6%98%AF%E6%BC%AB%E9%95%BF%E3%80%82" alt="Typing SVG" /></a> </h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C993%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C994%20hrs%2014%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2013%20mins-blue?style=flat)
 
@@ -211,37 +211,37 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      12 hrs 20 mins      ████████████████████████░   94.72 % 
-Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Vue                      10 hrs 6 mins       ███████████████████████░░   90.18 % 
+TypeScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🔥 Editors: 
-Trae                     12 hrs 20 mins      ████████████████████████░   94.77 % 
-Codex Vscode             40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Trae                     11 hrs 3 mins       █████████████████████████   98.68 % 
+Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 💻 Operating System: 
-Windows                  13 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  11 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 mins (7.03%)
+⏱ AI Coding Time: 13 mins (2.03%)
 
-✍️ 0 lines written by AI, 30 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 35 lines written by hand (0.0% AI-written)
 
-🔤 37,169 Input Tokens, 1,547 Output Tokens
+🔤 9,336 Input Tokens, 646 Output Tokens
 
-💵 $0.17 Estimated AI Cost This Week
+💵 $0.07 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 7 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 764 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📄 Detailed Prompter — average 1,482 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -258,6 +258,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 20:36:27 UTC
+ Last Updated on 28/08/2026 02:16:23 UTC
 <!--END_SECTION:waka-->
 
