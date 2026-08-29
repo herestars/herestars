@@ -187,7 +187,7 @@
 <h1 align="center"> <a href="https://herestars.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&pause=1000&center=true&width=435&lines=%E5%A5%87%E8%BF%B9%E5%8F%AA%E6%98%AF%E4%B8%80%E6%97%B6%EF%BC%8C%E5%91%BD%E8%BF%90%E6%80%BB%E6%98%AF%E6%BC%AB%E9%95%BF%E3%80%82" alt="Typing SVG" /></a> </h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C994%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C996%20hrs%2045%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2013%20mins-blue?style=flat)
 
@@ -211,38 +211,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      10 hrs 6 mins       ███████████████████████░░   90.18 % 
-TypeScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Vue                      7 hrs 24 mins       ██████████████████████░░░   88.42 % 
+TypeScript               58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
 
 🔥 Editors: 
-Trae                     11 hrs 3 mins       █████████████████████████   98.68 % 
-Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Trae                     8 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (2.03%)
-
-✍️ 0 lines written by AI, 35 lines written by hand (0.0% AI-written)
-
-🔤 9,336 Input Tokens, 646 Output Tokens
-
-💵 $0.07 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 3 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,482 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -258,6 +240,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 02:16:23 UTC
+ Last Updated on 29/08/2026 01:50:17 UTC
 <!--END_SECTION:waka-->
 
