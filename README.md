@@ -195,7 +195,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 71.2 kB Used in GitHub's Storage 
+> 📦 71.0 kB Used in GitHub's Storage 
  > 
 > 🏆 3 Contributions in the Year 2026
  > 
@@ -211,15 +211,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      10 hrs 45 mins      ███████████████████████░░   91.32 % 
-TypeScript               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Vue                      11 hrs 56 mins      ███████████████████████░░   92.09 % 
+TypeScript               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-Trae                     11 hrs 47 mins      █████████████████████████   100.00 % 
+Trae                     12 hrs 58 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -241,6 +241,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 20:40:48 UTC
+ Last Updated on 07/09/2026 21:42:24 UTC
 <!--END_SECTION:waka-->
 
