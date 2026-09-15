@@ -187,15 +187,15 @@
 <h1 align="center"> <a href="https://herestars.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&pause=1000&center=true&width=435&lines=%E5%A5%87%E8%BF%B9%E5%8F%AA%E6%98%AF%E4%B8%80%E6%97%B6%EF%BC%8C%E5%91%BD%E8%BF%90%E6%80%BB%E6%98%AF%E6%BC%AB%E9%95%BF%E3%80%82" alt="Typing SVG" /></a> </h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C028%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C030%20hrs%2043%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2013%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 71.1 kB Used in GitHub's Storage 
+> 📦 71.2 kB Used in GitHub's Storage 
  > 
 > 🏆 3 Contributions in the Year 2026
  > 
@@ -211,14 +211,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      17 hrs 4 mins       █████████████████████████   98.28 % 
-TypeScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Vue                      15 hrs 16 mins      ████████████████████████░   96.76 % 
+TypeScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Trae                     17 hrs 22 mins      █████████████████████████   100.00 % 
+Trae                     15 hrs 47 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -240,6 +241,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 21:57:15 UTC
+ Last Updated on 15/09/2026 21:38:34 UTC
 <!--END_SECTION:waka-->
 
