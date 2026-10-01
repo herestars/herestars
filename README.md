@@ -191,7 +191,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2013%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -211,14 +211,14 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      5 hrs 6 mins        ██████████████████░░░░░░░   73.39 % 
-TypeScript               1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+Vue                      2 hrs 58 mins       ███████████████████░░░░░░   76.87 % 
+TypeScript               53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
 
 🔥 Editors: 
-Trae                     6 hrs 57 mins       █████████████████████████   100.00 % 
+Trae                     3 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -240,6 +240,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 22:28:47 UTC
+ Last Updated on 01/10/2026 22:50:05 UTC
 <!--END_SECTION:waka-->
 
