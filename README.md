@@ -211,13 +211,14 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue                      1 hr 3 mins         ██████████████████░░░░░░░   70.17 % 
+TypeScript               27 mins             ███████░░░░░░░░░░░░░░░░░░   29.83 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Trae                     1 hr 31 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -239,6 +240,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 23:14:46 UTC
+ Last Updated on 08/10/2026 23:30:12 UTC
 <!--END_SECTION:waka-->
 
