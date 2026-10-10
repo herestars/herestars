@@ -63,7 +63,7 @@
 
 <a href="https://github.com/siddharth2016/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first ever hard disk drive was made in 1979, and could hold only 5MB of data.❞</i>
+<i>❝According to statista, by 2023, over 50 billion devices will be connected on the internet.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
