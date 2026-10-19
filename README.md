@@ -211,16 +211,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      8 hrs 44 mins       █████████████████████░░░░   85.82 % 
-TypeScript               1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Vue                      11 hrs 32 mins      █████████████████████░░░░   85.66 % 
+TypeScript               1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-Trae                     10 hrs 11 mins      █████████████████████████   100.00 % 
+Trae                     13 hrs 28 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -232,16 +232,16 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Java                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Smarty                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Kotlin                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Java                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Smarty                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Kotlin                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
 
 
 
- Last Updated on 18/10/2026 20:57:28 UTC
+ Last Updated on 19/10/2026 22:33:30 UTC
 <!--END_SECTION:waka-->
 
