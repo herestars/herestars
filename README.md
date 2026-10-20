@@ -187,7 +187,7 @@
 <h1 align="center"> <a href="https://herestars.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&pause=1000&center=true&width=435&lines=%E5%A5%87%E8%BF%B9%E5%8F%AA%E6%98%AF%E4%B8%80%E6%97%B6%EF%BC%8C%E5%91%BD%E8%BF%90%E6%80%BB%E6%98%AF%E6%BC%AB%E9%95%BF%E3%80%82" alt="Typing SVG" /></a> </h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C083%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C087%20hrs%2041%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2013%20mins-blue?style=flat)
 
@@ -195,7 +195,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 71.3 kB Used in GitHub's Storage 
+> 📦 71.4 kB Used in GitHub's Storage 
  > 
 > 🏆 3 Contributions in the Year 2026
  > 
@@ -211,16 +211,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      11 hrs 32 mins      █████████████████████░░░░   85.66 % 
-TypeScript               1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Vue                      10 hrs 24 mins      █████████████████████░░░░   85.42 % 
+TypeScript               1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 Editors: 
-Trae                     13 hrs 28 mins      █████████████████████████   100.00 % 
+Trae                     12 hrs 11 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -242,6 +242,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 22:33:30 UTC
+ Last Updated on 20/10/2026 21:47:39 UTC
 <!--END_SECTION:waka-->
 
